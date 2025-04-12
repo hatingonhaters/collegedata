@@ -68,17 +68,7 @@
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    const colorScale = [
-        "#8b0000",  // Critical
-        "#e66101",  // At-Risk
-        "#fdb863",  // Vulnerable
-        "#fdd49e",  // Watchlist
-        "#c2e699",  // Stable
-        "#78c679",  // Healthy
-        "#31a354",  // Strong
-        "#006837"   // Elite
-    ];
-
+    const colorScale = ['#8b0000', '#e66101', '#fdb863', '#fdd49e', '#c2e699', '#78c679', '#31a354', '#006837'];
     const categoryLabels = [
         "Critical", "At-Risk", "Vulnerable", "Watchlist",
         "Stable", "Healthy", "Strong", "Elite"
@@ -99,7 +89,7 @@
         markers.forEach(m => map.removeLayer(m));
         markers = [];
 
-        Papa.parse("national_map_data_final_coords.csv", {
+        Papa.parse("final_map_data_complete.csv", {
             download: true,
             header: true,
             complete: function(results) {
