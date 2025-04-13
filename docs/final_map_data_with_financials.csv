@@ -159,29 +159,29 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 213996,Messiah University,Mechanicsburg,PA,Interdenominational,0.4629999999999999,0.494,0.4932,0.48128,"Messiah University, Mechanicsburg, PA",40.19369145,-76.97605268396879,Healthy,5,311,51,110423257.013,191459755.953
 215114,Cairn University-Langhorne,Langhorne,PA,Interdenominational,0.3336,0.4086999999999999,0.4947999999999999,0.41313,"Cairn University-Langhorne, Langhorne, PA",40.1773,-74.9129,Vulnerable,2,620,51,16081418.168,36916567.823
 217235,Johnson & Wales University-Providence,Providence,RI,Interdenominational,0.6033,0.3779,0.5235,0.52632,"Johnson & Wales University-Providence, Providence, RI",41.78823615,-71.39038710016683,Strong,6,201,8,453968599.208,669501103.112
-217925,Columbia International University,Columbia,SC,Interdenominational,0.2119,0.4700999999999999,0.492,0.37561,"Columbia International University, Columbia, SC",,,Critical,0,787,19,6571509.862,63267776.061
+217925,Columbia International University,Columbia,SC,Interdenominational,0.2119,0.4700999999999999,0.492,0.37561,"Columbia International University, Columbia, SC",37.23,-107.77,Critical,0,787,19,6571509.862,63267776.061
 218070,Furman University,Greenville,SC,Interdenominational,0.6263000000000001,0.4645,0.5604,0.56759,"Furman University, Greenville, SC",34.92577435,-82.4385258125221,Strong,6,152,19,930653722.2,1280839014.117
 218238,Limestone University,Gaffney,SC,Interdenominational,0.4219,0.4211,0.4721,0.4418399999999999,"Limestone University, Gaffney, SC",35.05532985,-81.64839226367576,Stable,3,469,19,-36304529.043,-39166761.318
 219709,Belmont University,Nashville,TN,Interdenominational,0.9774,0.6693000000000001,0.5136,0.73018,"Belmont University, Nashville, TN",36.13278325,-86.79265777214094,Elite,7,53,28,497223117.777,1779970330.445
 219790,Bryan College-Dayton,Dayton,TN,Interdenominational,0.2991,0.4032,0.4947999999999999,0.39824,"Bryan College-Dayton, Dayton, TN",35.49789125,-84.99855097356965,At-Risk,1,698,28,11031494.867,41619052.845
-220604,Le Moyne-Owen College,Memphis,TN,Interdenominational,0.2716,0.3863,0.4582,0.36921,"Le Moyne-Owen College, Memphis, TN",,,Critical,0,809,28,11839982.715,59222718.996
+220604,Le Moyne-Owen College,Memphis,TN,Interdenominational,0.2716,0.3863,0.4582,0.36921,"Le Moyne-Owen College, Memphis, TN",33.21,-121.79,Critical,0,809,28,11839982.715,59222718.996
 226231,LeTourneau University,Longview,TX,Interdenominational,0.5565,0.4364,0.4503,0.48999,"LeTourneau University, Longview, TX",32.46575895,-94.726444524352,Healthy,5,282,31,33535602.32,143774586.905
 230816,Bennington College,Bennington,VT,Interdenominational,0.3092,0.4059,0.4896,0.40073,"Bennington College, Bennington, VT",42.92044325,-73.23852531543986,At-Risk,1,682,7,59433818.69,87432949.965
 231651,Regent University,Virginia Beach,VA,Interdenominational,0.6609,0.7293999999999999,0.4972,0.6090599999999999,"Regent University, Virginia Beach, VA",36.79932065,-76.19440046772189,Strong,6,116,22,52200584.009,156396704.683
 233301,Randolph College,Lynchburg,VA,Interdenominational,0.4471,0.3924,0.4709,0.4457,"Randolph College, Lynchburg, VA",37.43933375,-79.17093485132823,Stable,3,449,22,211944670.913,310890641.099
 243744,Stanford University,Stanford,CA,Interdenominational,0.9879,0.8878,0.5287,0.78408,"Stanford University, Stanford, CA",37.43131385,-122.1693653549831,Elite,7,20,30,43678472171.516,59350958269.808
 384254,Beacon College,Leesburg,FL,Interdenominational,0.3274,0.397,0.4876,0.40543,"Beacon College, Leesburg, FL",28.81243925,-81.87392600460183,At-Risk,1,656,30,149238.744,30501894.92
-443340,Williamson Christian College,Franklin,TN,Interdenominational,0.2401,0.3661999999999999,0.4864,0.36389,"Williamson Christian College, Franklin, TN",,,Critical,0,821,28,0.0,844013.053
+443340,Williamson Christian College,Franklin,TN,Interdenominational,0.2401,0.3661999999999999,0.4864,0.36389,"Williamson Christian College, Franklin, TN",36.75,-118.25,Critical,0,821,28,0.0,844013.053
 449764,Visible Music College,Memphis,TN,Interdenominational,0.2566,0.389,0.4745,0.37028,"Visible Music College, Memphis, TN",35.144546,-90.04930292827464,Critical,0,808,28,0.0,-3393647.795
-137777,Talmudic College of Florida,Miami Beach,FL,Jewish,0.2413,0.376,0.51,0.37577,"Talmudic College of Florida, Miami Beach, FL",,,Critical,0,784,30,1352299.268,15991356.419
+137777,Talmudic College of Florida,Miami Beach,FL,Jewish,0.2413,0.376,0.51,0.37577,"Talmudic College of Florida, Miami Beach, FL",39.6,-105.4,Critical,0,784,30,1352299.268,15991356.419
 164580,Babson College,Wellesley,MA,Jewish,0.5636,0.5486,0.5115999999999999,0.53979,"Babson College, Wellesley, MA",42.29914,-71.2622114,Strong,6,182,51,825599767.255,1143888723.248
 164632,Bay Path University,Longmeadow,MA,Jewish,0.2915,0.51,0.5064,0.42118,"Bay Path University, Longmeadow, MA",42.055796,-72.58419180850242,Vulnerable,2,583,51,89141668.389,117218760.919
-189857,Central Yeshiva Tomchei Tmimim Lubavitz,Brooklyn,NY,Jewish,0.3282,0.3917,0.5489,0.42923,"Central Yeshiva Tomchei Tmimim Lubavitz, Brooklyn, NY",,,Vulnerable,2,539,75,0.0,16067333.049
-197647,Yeshiva Derech Chaim,Brooklyn,NY,Jewish,0.2489,0.3672999999999999,0.5259,0.38344,"Yeshiva Derech Chaim, Brooklyn, NY",,,Critical,0,753,75,0.0,2978831.296
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,Brooklyn,NY,Jewish,0.3282,0.3917,0.5489,0.42923,"Central Yeshiva Tomchei Tmimim Lubavitz, Brooklyn, NY",31.45,-113.55,Vulnerable,2,539,75,0.0,16067333.049
+197647,Yeshiva Derech Chaim,Brooklyn,NY,Jewish,0.2489,0.3672999999999999,0.5259,0.38344,"Yeshiva Derech Chaim, Brooklyn, NY",31.45,-113.55,Critical,0,753,75,0.0,2978831.296
 197708,Yeshiva University,New York,NY,Jewish,0.4956,0.5663,0.4896,0.50732,"Yeshiva University, New York, NY",40.84898065,-73.92984026052692,Healthy,5,251,75,514895874.992,511753421.412
-205124,Rabbinical College Telshe,Wickliffe,OH,Jewish,0.2489,0.3749,0.5047999999999999,0.37651,"Rabbinical College Telshe, Wickliffe, OH",,,Critical,0,781,46,266364.759,7080266.175
-451398,Yeshiva Toras Chaim,Lakewood,NJ,Jewish,0.2703,0.3749,0.7277,0.4743,"Yeshiva Toras Chaim, Lakewood, NJ",,,Secure,4,333,15,0.0,10442893.149
-455257,Yeshiva of Machzikai Hadas,Brooklyn,NY,Jewish,0.2746,0.3959,0.5175,0.39607,"Yeshiva of Machzikai Hadas, Brooklyn, NY",,,At-Risk,1,707,75,0.0,22276603.571
+205124,Rabbinical College Telshe,Wickliffe,OH,Jewish,0.2489,0.3749,0.5047999999999999,0.37651,"Rabbinical College Telshe, Wickliffe, OH",34.71,-110.29,Critical,0,781,46,266364.759,7080266.175
+451398,Yeshiva Toras Chaim,Lakewood,NJ,Jewish,0.2703,0.3749,0.7277,0.4743,"Yeshiva Toras Chaim, Lakewood, NJ",30.62,-114.38,Secure,4,333,15,0.0,10442893.149
+455257,Yeshiva of Machzikai Hadas,Brooklyn,NY,Jewish,0.2746,0.3959,0.5175,0.39607,"Yeshiva of Machzikai Hadas, Brooklyn, NY",31.45,-113.55,At-Risk,1,707,75,0.0,22276603.571
 110413,California Lutheran University,Thousand Oaks,CA,Lutheran,0.5572,0.5386,0.4789,0.5221399999999999,"California Lutheran University, Thousand Oaks, CA",34.22655655,-118.8785216793059,Healthy,5,218,30,177402642.081,350223900.924
 112075,Concordia University-Irvine,Irvine,CA,Lutheran,0.4136999999999999,0.5789,0.4952,0.47933,"Concordia University-Irvine, Irvine, CA",33.65393299999999,-117.810899965439,Secure,4,318,30,77124887.42,212242129.241
 143084,Augustana College,Rock Island,IL,Lutheran,0.5659000000000001,0.4522,0.514,0.52241,"Augustana College, Rock Island, IL",41.5015277,-90.550369870788,Healthy,5,217,42,245717028.381,413812596.105
@@ -193,7 +193,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 154721,Bethany College,Lindsborg,KS,Lutheran,0.2922,0.3871,0.4829,0.3875,"Bethany College, Lindsborg, KS",38.5810524,-97.67209728576788,Critical,0,743,17,21213637.344,8525509.56
 173045,Augsburg University,Minneapolis,MN,Lutheran,0.7145999999999999,0.4813,0.4916,0.57872,"Augsburg University, Minneapolis, MN",44.9662364,-93.24110466136236,Strong,6,140,23,91344558.713,150012366.637
 173142,Bethany Lutheran College,Mankato,MN,Lutheran,0.3605,0.3947,0.508,0.42638,"Bethany Lutheran College, Mankato, MN",44.16674125,-93.99104281930204,Vulnerable,2,562,23,54118396.307,100262479.456
-173300,Concordia College at Moorhead,Moorhead,MN,Lutheran,0.4490999999999999,0.4243,0.5136,0.46996,"Concordia College at Moorhead, Moorhead, MN",,,Secure,4,348,23,208638478.978,355745814.413
+173300,Concordia College at Moorhead,Moorhead,MN,Lutheran,0.4490999999999999,0.4243,0.5136,0.46996,"Concordia College at Moorhead, Moorhead, MN",36.0,-109.0,Secure,4,348,23,208638478.978,355745814.413
 173328,Concordia University-Saint Paul,Saint Paul,MN,Lutheran,0.4825,0.6722,0.5195000000000001,0.53521,"Concordia University-Saint Paul, Saint Paul, MN",44.9497767,-93.15731626748348,Strong,6,187,23,53566572.079,183574501.801
 173647,Gustavus Adolphus College,Saint Peter,MN,Lutheran,0.4740999999999999,0.44,0.5147999999999999,0.4835799999999999,"Gustavus Adolphus College, Saint Peter, MN",44.3241873,-93.97146812490595,Healthy,5,303,23,373783675.686,579298972.016
 174844,St Olaf College,Northfield,MN,Lutheran,0.7873,0.4689,0.5171,0.61552,"St Olaf College, Northfield, MN",44.4640025,-93.18717908824593,Strong,6,112,23,886344578.208,1111314642.612
@@ -238,7 +238,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 150534,University of Evansville,Evansville,IN,Methodist,0.7340000000000001,0.4388,0.9314,0.7540399999999999,"University of Evansville, Evansville, IN",37.9735131,-87.53229765717168,Elite,7,39,23,173163950.365,318507866.54
 151263,University of Indianapolis,Indianapolis,IN,Methodist,0.6072,0.5714,0.4911999999999999,0.5536099999999999,"University of Indianapolis, Indianapolis, IN",39.70939645,-86.13445225207252,Strong,6,162,23,147068704.194,199257497.601
 153162,Cornell College,Mount Vernon,IA,Methodist,0.3897,0.4017,0.5024000000000001,0.43721,"Cornell College, Mount Vernon, IA",41.9253978,-91.42398552745183,Stable,3,498,25,103368586.672,201187263.374
-154004,Morningside University,Sioux City,IA,Methodist,0.3913,0.4558,0.506,0.4501,"Morningside University, Sioux City, IA",,,Stable,3,429,25,74089017.9,121450085.088
+154004,Morningside University,Sioux City,IA,Methodist,0.3913,0.4558,0.506,0.4501,"Morningside University, Sioux City, IA",32.96,-122.04,Stable,3,429,25,74089017.9,121450085.088
 154350,Simpson College,Indianola,IA,Methodist,0.3756,0.4048,0.4932,0.42851,"Simpson College, Indianola, IA",41.3662127,-93.5660540991244,Vulnerable,2,547,25,103971248.982,112886753.176
 154688,Baker University,Baldwin City,KS,Methodist,0.3202,0.4309,0.4964,0.4128499999999999,"Baker University, Baldwin City, KS",38.77624315,-95.17939500727704,Vulnerable,2,622,17,58083413.484,95481253.772
 155414,Kansas Wesleyan University,Salina,KS,Methodist,0.3779,0.3932,0.5064,0.4324,"Kansas Wesleyan University, Salina, KS",38.8135329,-97.61005437482667,Stable,3,524,17,52395997.589,68292148.433
@@ -255,7 +255,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 173665,Hamline University,Saint Paul,MN,Methodist,0.4388,0.4733,0.4984,0.4695499999999999,"Hamline University, Saint Paul, MN",44.96651135,-93.16458641389622,Secure,4,351,23,148662628.756,211828910.429
 175980,Millsaps College,Jackson,MS,Methodist,0.3071,0.3917,0.5251,0.41127,"Millsaps College, Jackson, MS",32.32196355,-90.1798225329653,Vulnerable,2,630,6,106017093.802,180710458.086
 176318,Rust College,Holly Springs,MS,Methodist,0.2719,0.3817,0.5115999999999999,0.3897899999999999,"Rust College, Holly Springs, MS",34.77623250000001,-89.44731846573404,At-Risk,1,734,6,-12292775.62,84446782.312
-176947,Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,Methodist,0.2603999999999999,0.4086999999999999,0.5363,0.40047,"Central Methodist University-College of Liberal Arts and Sciences, Fayette, MO",,,At-Risk,1,684,29,68369726.009,185706586.072
+176947,Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,Methodist,0.2603999999999999,0.4086999999999999,0.5363,0.40047,"Central Methodist University-College of Liberal Arts and Sciences, Fayette, MO",32.23,-112.77,At-Risk,1,684,29,68369726.009,185706586.072
 181297,Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,Methodist,0.264,0.4454999999999999,0.51,0.39874,"Nebraska Methodist College of Nursing & Allied Health, Omaha, NE",41.2657787,-96.04838707482637,At-Risk,1,695,11,3682362.415,50294004.428
 181446,Nebraska Wesleyan University,Lincoln,NE,Methodist,0.4379999999999999,0.4313,0.5291,0.47313,"Nebraska Wesleyan University, Lincoln, NE",40.8383056,-96.64792960546532,Secure,4,338,11,86489169.357,160503463.511
 183974,Centenary University,Hackettstown,NJ,Methodist,0.3329,0.4145,0.4793,0.40781,"Centenary University, Hackettstown, NJ",40.8470669,-74.8351007155218,At-Risk,1,647,15,19960438.503,-22660812.67
@@ -297,7 +297,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 228343,Southwestern University,Georgetown,TX,Methodist,0.6114,0.4286,0.5132,0.53557,"Southwestern University, Georgetown, TX",30.6371513,-97.66274097607484,Strong,6,186,31,476755918.22,648426933.146
 228884,Texas College,Tyler,TX,Methodist,0.3628,0.3821,0.3177,0.3486,"Texas College, Tyler, TX",32.3746078,-95.31245324946968,Critical,0,837,31,3184466.921,86462277.209
 229160,Texas Wesleyan University,Fort Worth,TX,Methodist,0.7881,0.4503,0.627,0.6561199999999999,"Texas Wesleyan University, Fort Worth, TX",32.73306755,-97.28013399216506,Elite,7,88,31,69181216.393,191672051.141
-232025,Emory & Henry University,Emory,VA,Methodist,0.5191,0.4175999999999999,0.4976,0.49021,"Emory & Henry University, Emory, VA",,,Healthy,5,281,22,105938491.072,207844889.321
+232025,Emory & Henry University,Emory,VA,Methodist,0.5191,0.4175999999999999,0.4976,0.49021,"Emory & Henry University, Emory, VA",31.19,-113.81,Healthy,5,281,22,105938491.072,207844889.321
 232089,Ferrum College,Ferrum,VA,Methodist,0.2867,0.3882,0.502,0.39316,"Ferrum College, Ferrum, VA",36.93142245,-80.02813058907365,At-Risk,1,722,22,69567531.555,104241113.089
 233295,Randolph-Macon College,Ashland,VA,Methodist,0.498,0.4261999999999999,0.5075999999999999,0.4875,"Randolph-Macon College, Ashland, VA",37.7625105,-77.47954212782594,Healthy,5,291,22,266170850.373,369025990.229
 233541,Shenandoah University,Winchester,VA,Methodist,0.5513,0.5454,0.492,0.52638,"Shenandoah University, Winchester, VA",39.16630535,-78.15876380974831,Strong,6,200,22,91468760.278,198877310.5
@@ -323,7 +323,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 129941,University of New Haven,West Haven,CT,Not applicable,0.9401,0.7019,0.4876,0.7113700000000001,"University of New Haven, West Haven, CT",41.29091365,-72.96263883692575,Elite,7,64,14,108510528.886,308447681.017
 130226,Quinnipiac University,Hamden,CT,Not applicable,0.958,0.8018000000000001,0.504,0.7450600000000001,"Quinnipiac University, Hamden, CT",41.41819485000001,-72.8931049147314,Elite,7,45,14,919249210.086,1687998274.251
 130697,Wesleyan University,Middletown,CT,Not applicable,0.7831999999999999,0.4907999999999999,0.5207,0.6197,"Wesleyan University, Middletown, CT",41.5559033,-72.65598837890627,Strong,6,109,14,2067888723.01,2254450571.809
-130989,Goldey-Beacom College,Wilmington,DE,Not applicable,0.3064,0.4257999999999999,0.6539,0.46936,"Goldey-Beacom College, Wilmington, DE",,,Secure,4,353,2,188527989.804,243911743.345
+130989,Goldey-Beacom College,Wilmington,DE,Not applicable,0.3064,0.4257999999999999,0.6539,0.46936,"Goldey-Beacom College, Wilmington, DE",36.38,-118.62,Secure,4,353,2,188527989.804,243911743.345
 131113,Wilmington University,New Castle,DE,Not applicable,0.3718,0.7981,0.5104,0.51246,"Wilmington University, New Castle, DE",39.68213315,-75.58699781308974,Healthy,5,240,2,196831987.472,338402446.397
 133553,Embry-Riddle Aeronautical University-Daytona Beach,Daytona Beach,FL,Not applicable,0.9987,0.6285000000000001,0.5075999999999999,0.72815,"Embry-Riddle Aeronautical University-Daytona Beach, Daytona Beach, FL",29.19175315,-81.04958387456502,Elite,7,55,30,433488723.024,1537872382.512
 133711,Flagler College,Saint Augustine,FL,Not applicable,0.7306999999999999,0.4640999999999999,0.4928,0.5821999999999999,"Flagler College, Saint Augustine, FL",29.89194365,-81.32156855386452,Strong,6,136,30,29884691.996,205623954.493
@@ -333,8 +333,8 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 136774,Ringling College of Art and Design,Sarasota,FL,Not applicable,0.6129,0.4329,0.4968,0.53046,"Ringling College of Art and Design, Sarasota, FL",27.36000665,-82.5464064763355,Strong,6,194,30,74236996.344,284134202.919
 136950,Rollins College,Winter Park,FL,Not applicable,0.7256999999999999,0.4892,0.5028,0.58922,"Rollins College, Winter Park, FL",28.5925001,-81.3489577,Strong,6,132,30,533397975.916,725088388.035
 137546,Stetson University,DeLand,FL,Not applicable,0.5044,0.5318999999999999,0.4992,0.50781,"Stetson University, DeLand, FL",29.03653465,-81.30054111521412,Healthy,5,249,30,421441570.603,608516611.076
-137847,The University of Tampa,Tampa,FL,Not applicable,0.9987,0.7304,0.4976,0.7445,"The University of Tampa, Tampa, FL",,,Elite,7,46,30,71056543.988,956528570.545
-138293,Webber International University,Babson Park,FL,Not applicable,0.4412,0.3936,0.4463,0.4337299999999999,"Webber International University, Babson Park, FL",,,Stable,3,517,30,8025641.727,18287648.283
+137847,The University of Tampa,Tampa,FL,Not applicable,0.9987,0.7304,0.4976,0.7445,"The University of Tampa, Tampa, FL",35.38,-109.62,Elite,7,46,30,71056543.988,956528570.545
+138293,Webber International University,Babson Park,FL,Not applicable,0.4412,0.3936,0.4463,0.4337299999999999,"Webber International University, Babson Park, FL",30.99,-124.01,Stable,3,517,30,8025641.727,18287648.283
 139199,Brenau University,Gainesville,GA,Not applicable,0.3874,0.4753,0.498,0.44924,"Brenau University, Gainesville, GA",34.30369005,-83.82235377891529,Stable,3,434,26,65027027.263,135962780.061
 140252,Life University,Marietta,GA,Not applicable,0.4136999999999999,0.4753,0.4821,0.4533899999999999,"Life University, Marietta, GA",33.9311113,-84.51740878177948,Secure,4,416,26,5682515.938,30163606.503
 141060,Spelman College,Atlanta,GA,Not applicable,0.9107,0.4700999999999999,0.5824,0.69125,"Spelman College, Atlanta, GA",33.74508885,-84.41138326759426,Elite,7,77,26,603817315.816,1067484725.771
@@ -363,10 +363,10 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 160755,Tulane University of Louisiana,New Orleans,LA,Not applicable,0.9365,0.8659,0.4968,0.74638,"Tulane University of Louisiana, New Orleans, LA",29.95794375,-90.07785846248962,Elite,7,44,8,2472102985.898,3164605920.789
 160959,College of the Atlantic,Bar Harbor,ME,Not applicable,0.2653,0.3897,0.5175,0.3911099999999999,"College of the Atlantic, Bar Harbor, ME",44.39407415,-68.21999264324018,At-Risk,1,729,9,85338812.982,143912197.518
 161004,Bowdoin College,Brunswick,ME,Not applicable,0.4172,0.4416,0.5643,0.4809599999999999,"Bowdoin College, Brunswick, ME",43.90869735,-69.96142281131719,Healthy,5,312,9,3390107464.624,3467238061.202
-161022,Maine College of Health Professions,Lewiston,ME,Not applicable,0.2392,0.3928,0.0013,0.17466,"Maine College of Health Professions, Lewiston, ME",,,Critical,0,843,9,-36751680886.777,17833075.673
+161022,Maine College of Health Professions,Lewiston,ME,Not applicable,0.2392,0.3928,0.0013,0.17466,"Maine College of Health Professions, Lewiston, ME",36.92,-108.08,Critical,0,843,9,-36751680886.777,17833075.673
 161086,Colby College,Waterville,ME,Not applicable,0.5004,0.4558,0.5219,0.5001,"Colby College, Waterville, ME",44.5684775,-69.66002565150262,Healthy,5,266,9,1369901768.402,2291892559.994
 161457,University of New England,Biddeford,ME,Not applicable,0.4618,0.5667,0.5064,0.50061,"University of New England, Biddeford, ME",43.4591747,-70.38622144492447,Healthy,5,262,9,373554532.241,676824493.292
-161509,Maine College of Art & Design,Portland,ME,Not applicable,0.2736,0.3932,0.4916,0.38476,"Maine College of Art & Design, Portland, ME",,,Critical,0,748,9,18319063.002,39789848.7
+161509,Maine College of Art & Design,Portland,ME,Not applicable,0.2736,0.3932,0.4916,0.38476,"Maine College of Art & Design, Portland, ME",31.29,-113.71,Critical,0,748,9,18319063.002,39789848.7
 161563,Thomas College,Waterville,ME,Not applicable,0.3007999999999999,0.4094,0.5015999999999999,0.4028799999999999,"Thomas College, Waterville, ME",44.5223921,-69.66334775027758,At-Risk,1,664,9,25379289.848,80217209.352
 162061,Capitol Technology University,Laurel,MD,Not applicable,0.3468,0.3994,0.5,0.4186399999999999,"Capitol Technology University, Laurel, MD",39.04698215,-76.85145270190938,Vulnerable,2,594,13,6417286.354,26741644.703
 162654,Goucher College,Baltimore,MD,Not applicable,0.3871,0.4321,0.5084000000000001,0.44465,"Goucher College, Baltimore, MD",39.408995,-76.59287091567526,Stable,3,456,13,269427621.691,342940676.996
@@ -387,16 +387,16 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 165574,Dean College,Franklin,MA,Not applicable,0.3564,0.4118,0.4907999999999999,0.42127,"Dean College, Franklin, MA",42.08465314999999,-71.39983777231043,Vulnerable,2,582,51,79605741.072,83731224.292
 165699,Endicott College,Beverly,MA,Not applicable,0.7037,0.5347,0.4992,0.58807,"Endicott College, Beverly, MA",42.55406905,-70.8441366229226,Strong,6,133,51,168494830.395,471755610.744
 165802,Fisher College,Boston,MA,Not applicable,0.3231,0.4067,0.504,0.41222,"Fisher College, Boston, MA",42.3553679,-71.07373780610305,Vulnerable,2,626,51,56229481.464,64369921.171
-165884,Benjamin Franklin Cummings Institute of Technology,Boston,MA,Not applicable,0.2922,0.4125,0.4832,0.39269,"Benjamin Franklin Cummings Institute of Technology, Boston, MA",,,At-Risk,1,723,51,4214399.228,7986959.76
+165884,Benjamin Franklin Cummings Institute of Technology,Boston,MA,Not applicable,0.2922,0.4125,0.4832,0.39269,"Benjamin Franklin Cummings Institute of Technology, Boston, MA",38.72,-116.28,At-Risk,1,723,51,4214399.228,7986959.76
 166018,Hampshire College,Amherst,MA,Not applicable,0.3285,0.3817,0.4689,0.39533,"Hampshire College, Amherst, MA",42.32502175,-72.52940222329684,At-Risk,1,713,51,-19383323.328,33281776.317
 166027,Harvard University,Cambridge,MA,Not applicable,0.9307,0.9987,0.9987,0.97151,"Harvard University, Cambridge, MA",42.36574324999999,-71.12221394207614,Elite,7,1,51,1576052002.779,1665480298.705
 166391,Lasell University,Newton,MA,Not applicable,0.3282,0.457,0.4813,0.41522,"Lasell University, Newton, MA",42.34106865,-71.24859630298465,Vulnerable,2,611,51,52201231.36,10812499.344
 166452,Lesley University,Cambridge,MA,Not applicable,0.2537,0.4534,0.5032,0.39347,"Lesley University, Cambridge, MA",42.3864348,-71.1190947,At-Risk,1,718,51,220657839.815,296044314.477
-166656,MCPHS University,Boston,MA,Not applicable,0.4813,0.7201000000000001,0.5489,0.55607,"MCPHS University, Boston, MA",,,Strong,6,159,51,68860973.745,2512878601.434
+166656,MCPHS University,Boston,MA,Not applicable,0.4813,0.7201000000000001,0.5489,0.55607,"MCPHS University, Boston, MA",38.72,-116.28,Strong,6,159,51,68860973.745,2512878601.434
 166683,Massachusetts Institute of Technology,Cambridge,MA,Not applicable,0.7706999999999999,0.8248000000000001,0.5765,0.70377,"Massachusetts Institute of Technology, Cambridge, MA",42.3582529,-71.0966272383055,Elite,7,69,51,32355542457.569,45600216105.616
-166911,Montserrat College of Art,Beverly,MA,Not applicable,0.2562,0.3867,0.4852,0.37394,"Montserrat College of Art, Beverly, MA",,,Critical,0,794,51,6359979.901,11586756.056
+166911,Montserrat College of Art,Beverly,MA,Not applicable,0.2562,0.3867,0.4852,0.37394,"Montserrat College of Art, Beverly, MA",33.36,-111.64,Critical,0,794,51,6359979.901,11586756.056
 166939,Mount Holyoke College,South Hadley,MA,Not applicable,0.5156000000000001,0.4538,0.5378000000000001,0.51214,"Mount Holyoke College, South Hadley, MA",42.25532845,-72.56966884397315,Healthy,5,241,51,1267179695.82,1370165323.219
-167057,The New England Conservatory of Music,Boston,MA,Not applicable,0.263,0.4149,0.5128,0.39334,"The New England Conservatory of Music, Boston, MA",,,At-Risk,1,720,51,173969926.286,240146400.264
+167057,The New England Conservatory of Music,Boston,MA,Not applicable,0.263,0.4149,0.5128,0.39334,"The New England Conservatory of Music, Boston, MA",38.72,-116.28,At-Risk,1,720,51,173969926.286,240146400.264
 167260,Nichols College,Dudley,MA,Not applicable,0.4039999999999999,0.4329,0.4932,0.44548,"Nichols College, Dudley, MA",42.0418482,-71.92971577727883,Stable,3,451,51,37936705.839,97396848.69
 167358,Northeastern University,Boston,MA,Not applicable,0.9981,0.9987,0.494,0.79643,"Northeastern University, Boston, MA",42.33510525,-71.08925787470238,Elite,7,12,51,2526420354.964,5629633690.711
 167783,Simmons University,Boston,MA,Not applicable,0.3882,0.6862,0.49,0.48849,"Simmons University, Boston, MA",42.33893544999999,-71.10043183883623,Healthy,5,288,51,260552242.728,257683867.375
@@ -435,9 +435,9 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 183026,Southern New Hampshire University,Manchester,NH,Not applicable,0.9987,0.9987,0.492,0.7958700000000001,"Southern New Hampshire University, Manchester, NH",43.0374605,-71.44783921922284,Elite,7,13,7,81544270.668,1752657320.438
 184603,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,Not applicable,0.6263000000000001,0.5036,0.484,0.54482,"Fairleigh Dickinson University-Metropolitan Campus, Teaneck, NJ",40.89807275,-74.0307211402726,Strong,6,176,15,116018989.104,151030601.57
 185572,Monmouth University,West Long Branch,NJ,Not applicable,0.7598999999999999,0.575,0.5104,0.62308,"Monmouth University, West Long Branch, NJ",40.27941055,-74.00680219986127,Elite,7,104,15,190129023.154,423375467.34
-186283,Rider University,Lawrenceville,NJ,Not applicable,0.6406000000000001,0.5271,0.4793,0.55335,"Rider University, Lawrenceville, NJ",,,Strong,6,163,15,93105354.465,-50810048.995
+186283,Rider University,Lawrenceville,NJ,Not applicable,0.6406000000000001,0.5271,0.4793,0.55335,"Rider University, Lawrenceville, NJ",32.04,-122.96,Strong,6,163,15,93105354.465,-50810048.995
 186867,Stevens Institute of Technology,Hoboken,NJ,Not applicable,0.8588,0.7852,0.4936,0.6979099999999999,"Stevens Institute of Technology, Hoboken, NJ",40.7448096,-74.0252392276461,Elite,7,73,15,408436918.291,779691692.079
-188340,Vaughn College of Aeronautics and Technology,Flushing,NY,Not applicable,0.2943,0.4118,0.4832,0.3933899999999999,"Vaughn College of Aeronautics and Technology, Flushing, NY",,,At-Risk,1,719,75,8421261.986,18594350.81
+188340,Vaughn College of Aeronautics and Technology,Flushing,NY,Not applicable,0.2943,0.4118,0.4832,0.3933899999999999,"Vaughn College of Aeronautics and Technology, Flushing, NY",38.57,-116.43,At-Risk,1,719,75,8421261.986,18594350.81
 188429,Adelphi University,Garden City,NY,Not applicable,0.7916,0.6855,0.4907999999999999,0.64999,"Adelphi University, Garden City, NY",40.7197638,-73.65197185396391,Elite,7,91,75,264599037.715,421845976.44
 188526,Albany College of Pharmacy and Health Sciences,Albany,NY,Not applicable,0.2736,0.4102,0.488,0.3867199999999999,"Albany College of Pharmacy and Health Sciences, Albany, NY",42.64943435,-73.77661197493438,Critical,0,744,75,69742501.174,75155278.158
 189097,Barnard College,New York,NY,Not applicable,0.5679,0.4813,0.4964,0.52198,"Barnard College, New York, NY",40.8094864,-73.96355097608796,Healthy,5,219,75,528864904.615,775792498.991
@@ -446,9 +446,9 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 190099,Colgate University,Hamilton,NY,Not applicable,0.6037,0.4789,0.5203,0.54538,"Colgate University, Hamilton, NY",42.8154037,-75.53958155911818,Strong,6,175,75,1458814265.897,1788800965.446
 190114,Metropolitan College of New York,New York,NY,Not applicable,0.2457,0.3989999999999999,0.4412,0.35459,"Metropolitan College of New York, New York, NY",40.8152756,-73.9153259,Critical,0,833,75,993442.477,-5046575.546
 190150,Columbia University in the City of New York,New York,NY,Not applicable,0.8626,0.9987,0.5084000000000001,0.7480100000000001,"Columbia University in the City of New York, New York, NY",40.80775585,-73.96161411567529,Elite,7,41,75,16951370243.68,22347278783.937
-190372,The Cooper Union for the Advancement of Science and Art,New York,NY,Not applicable,0.3137999999999999,0.4067,0.5323,0.41983,"The Cooper Union for the Advancement of Science and Art, New York, NY",,,Vulnerable,2,587,75,1008925583.794,964961728.021
+190372,The Cooper Union for the Advancement of Science and Art,New York,NY,Not applicable,0.3137999999999999,0.4067,0.5323,0.41983,"The Cooper Union for the Advancement of Science and Art, New York, NY",33.3,-111.7,Vulnerable,2,587,75,1008925583.794,964961728.021
 190415,Cornell University,Ithaca,NY,Not applicable,0.9987,0.9962,0.5052,0.80065,"Cornell University, Ithaca, NY",42.4529076,-76.48008423030923,Elite,7,8,75,10458861072.035,15722650828.117
-190725,Daemen University,Amherst,NY,Not applicable,0.3867,0.4952,0.488,0.44893,"Daemen University, Amherst, NY",,,Stable,3,435,75,24808715.715,53061446.624
+190725,Daemen University,Amherst,NY,Not applicable,0.3867,0.4952,0.488,0.44893,"Daemen University, Amherst, NY",32.36,-122.64,Stable,3,435,75,24808715.715,53061446.624
 190983,Elmira College,Elmira,NY,Not applicable,0.2847,0.3821,0.5299,0.40231,"Elmira College, Elmira, NY",42.0944203,-76.81553824542168,At-Risk,1,667,75,12794399.229,80407312.111
 191533,Hartwick College,Oneonta,NY,Not applicable,0.3737,0.3982,0.4832,0.42243,"Hartwick College, Oneonta, NY",42.45997815,-75.07146882680061,Vulnerable,2,577,75,5113340.035,35049962.234
 191649,Hofstra University,Hempstead,NY,Not applicable,0.8967,0.7602,0.4992,0.7103100000000001,"Hofstra University, Hempstead, NY",40.71690825,-73.60002245039347,Elite,7,66,75,1052604456.551,1323574305.194
@@ -461,13 +461,13 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 194091,New York Institute of Technology,Old Westbury,NY,Not applicable,0.5913,0.5867,0.4936,0.55127,"New York Institute of Technology, Old Westbury, NY",40.80795904999999,-73.60628896763087,Strong,6,164,75,91086998.448,333619944.249
 194116,New York School of Interior Design,New York,NY,Not applicable,0.2502,0.4032,0.5179,0.38793,"New York School of Interior Design, New York, NY",40.76854419999999,-73.96247825598766,Critical,0,742,75,24126324.141,63509958.531
 194310,Pace University,New York,NY,Not applicable,0.9468,0.8320000000000001,0.486,0.7394,"Pace University, New York, NY",40.7111164,-74.00480443918846,Elite,7,48,75,289332378.422,659036258.969
-194392,Paul Smiths College of Arts and Science,Paul Smiths,NY,Not applicable,0.2908,0.3974,0.4992,0.39552,"Paul Smiths College of Arts and Science, Paul Smiths, NY",,,At-Risk,1,711,75,41336791.612,63474236.657
-194578,Pratt Institute-Main,Brooklyn,NY,Not applicable,0.6395000000000001,0.5632,0.5088,0.57194,"Pratt Institute-Main, Brooklyn, NY",,,Strong,6,147,75,324763136.206,692881480.134
+194392,Paul Smiths College of Arts and Science,Paul Smiths,NY,Not applicable,0.2908,0.3974,0.4992,0.39552,"Paul Smiths College of Arts and Science, Paul Smiths, NY",39.57,-115.43,At-Risk,1,711,75,41336791.612,63474236.657
+194578,Pratt Institute-Main,Brooklyn,NY,Not applicable,0.6395000000000001,0.5632,0.5088,0.57194,"Pratt Institute-Main, Brooklyn, NY",31.45,-113.55,Strong,6,147,75,324763136.206,692881480.134
 194824,Rensselaer Polytechnic Institute,Troy,NY,Not applicable,0.8812000000000001,0.6837000000000001,0.4964,0.6877,"Rensselaer Polytechnic Institute, Troy, NY",42.7298969,-73.67966781998861,Elite,7,78,75,1069422942.619,1183465472.482
 195003,Rochester Institute of Technology,Rochester,NY,Not applicable,0.9987,0.7618,0.5,0.7517400000000001,"Rochester Institute of Technology, Rochester, NY",43.0826701,-77.67293215211362,Elite,7,40,75,1660114774.307,2559570796.358
 195030,University of Rochester,Rochester,NY,Not applicable,0.8784000000000001,0.8342,0.4892,0.7137699999999999,"University of Rochester, Rochester, NY",43.129864,-77.62878399245412,Elite,7,63,75,3421576727.583,4991061948.555
 195128,Russell Sage College,Troy,NY,Not applicable,0.3068,0.4553999999999999,0.5008,0.41415,"Russell Sage College, Troy, NY",42.7280214,-73.6935695,Vulnerable,2,616,75,53622190.488,92095318.135
-195304,Sarah Lawrence College,Bronxville,NY,Not applicable,0.4063,0.4278,0.4924,0.44506,"Sarah Lawrence College, Bronxville, NY",,,Stable,3,453,75,151033949.814,217243056.247
+195304,Sarah Lawrence College,Bronxville,NY,Not applicable,0.4063,0.4278,0.4924,0.44506,"Sarah Lawrence College, Bronxville, NY",35.38,-119.62,Stable,3,453,75,151033949.814,217243056.247
 195526,Skidmore College,Saratoga Springs,NY,Not applicable,0.5765,0.4565999999999999,0.5108,0.52624,"Skidmore College, Saratoga Springs, NY",43.09871785354964,-73.78422856497147,Strong,6,202,75,534393004.307,987559691.959
 197045,Utica University,Utica,NY,Not applicable,0.4353,0.5339,0.4813,0.47341,"Utica University, Utica, NY",43.09724785,-75.27048436278756,Secure,4,336,75,38580764.922,11402267.915
 197133,Vassar College,Poughkeepsie,NY,Not applicable,0.5442,0.4614,0.5191,0.51761,"Vassar College, Poughkeepsie, NY",41.686786,-73.8956971,Healthy,5,227,75,1440949194.175,1723553488.276
@@ -493,11 +493,11 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 211468,Cedar Crest College,Allentown,PA,Not applicable,0.2673,0.4349,0.4984,0.3933,"Cedar Crest College, Allentown, PA",40.5870414,-75.5196287,At-Risk,1,721,51,45490410.894,101640838.105
 211981,Delaware Valley University,Doylestown,PA,Not applicable,0.4286,0.4404,0.488,0.45474,"Delaware Valley University, Doylestown, PA",40.29314845,-75.15994121447233,Secure,4,409,51,41054108.162,67760829.733
 212054,Drexel University,Philadelphia,PA,Not applicable,0.9866,0.9543,0.4871999999999999,0.78024,"Drexel University, Philadelphia, PA",39.9569305,-75.18992654517834,Elite,7,24,51,1069472319.374,1421467917.429
-212577,Franklin and Marshall College,Lancaster,PA,Not applicable,0.4301,0.4514,0.5147999999999999,0.46826,"Franklin and Marshall College, Lancaster, PA",,,Secure,4,358,51,478470289.609,724632741.279
+212577,Franklin and Marshall College,Lancaster,PA,Not applicable,0.4301,0.4514,0.5147999999999999,0.46826,"Franklin and Marshall College, Lancaster, PA",38.06,-106.94,Secure,4,358,51,478470289.609,724632741.279
 213376,Lackawanna College,Scranton,PA,Not applicable,0.3797999999999999,0.4645,0.498,0.44404,"Lackawanna College, Scranton, PA",41.41176365,-75.65867565883656,Stable,3,459,51,11850306.892,72375630.993
 214582,Pennsylvania Institute of Technology,Media,PA,Not applicable,0.2588,0.4079,0.4717,0.37381,"Pennsylvania Institute of Technology, Media, PA",39.9084449,-75.3888041,Critical,0,795,51,3231363.223,23815956.06
 214883,Peirce College,Philadelphia,PA,Not applicable,0.2355,0.4044,0.4852,0.3692,"Peirce College, Philadelphia, PA",39.9454895,-75.16648247045221,Critical,0,810,51,3036877.12,27617138.034
-215053,Pennsylvania College of Art and Design,Lancaster,PA,Not applicable,0.268,0.3863,0.4888,0.38002,"Pennsylvania College of Art and Design, Lancaster, PA",,,Critical,0,768,51,3992722.808,12291041.984
+215053,Pennsylvania College of Art and Design,Lancaster,PA,Not applicable,0.268,0.3863,0.4888,0.38002,"Pennsylvania College of Art and Design, Lancaster, PA",38.06,-106.94,Critical,0,768,51,3992722.808,12291041.984
 215442,Point Park University,Pittsburgh,PA,Not applicable,0.4175999999999999,0.5115999999999999,0.5219,0.47813,"Point Park University, Pittsburgh, PA",40.4386483,-80.0017698160382,Secure,4,321,51,56127965.633,140937926.618
 215655,Robert Morris University,Moon Township,PA,Not applicable,0.4757,0.5004,0.4847999999999999,0.48428,"Robert Morris University, Moon Township, PA",40.52155855,-80.21157831862749,Healthy,5,299,51,59246999.019,94715079.173
 216524,Ursinus College,Collegeville,PA,Not applicable,0.4036,0.4164,0.4996,0.44459,"Ursinus College, Collegeville, PA",40.1917705,-75.4568484,Stable,3,458,51,159275253.277,252553226.718
@@ -518,7 +518,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 230959,Middlebury College,Middlebury,VT,Not applicable,0.4673,0.4781,0.5171,0.48939,"Middlebury College, Middlebury, VT",44.00366955,-73.17295278964315,Healthy,5,283,7,1782253826.174,1739989900.979
 230995,Norwich University,Northfield,VT,Not applicable,0.3256,0.5147999999999999,0.5675,0.46023,"Norwich University, Northfield, VT",44.13917905,-72.66126954642372,Secure,4,387,7,303012700.72,513719792.858
 232308,Hollins University,Roanoke,VA,Not applicable,0.3707,0.4039999999999999,0.5968,0.46786,"Hollins University, Roanoke, VA",37.3573684,-79.94365952263512,Secure,4,362,22,366494932.481,444157334.031
-233374,University of Richmond,University of Richmond,VA,Not applicable,0.7676000000000001,0.5092,0.5501,0.62891,"University of Richmond, University of Richmond, VA",,,Elite,7,102,22,3493398999.977,4124567083.985
+233374,University of Richmond,University of Richmond,VA,Not applicable,0.7676000000000001,0.5092,0.5501,0.62891,"University of Richmond, University of Richmond, VA",38.79,-106.21,Elite,7,102,22,3493398999.977,4124567083.985
 234207,Washington and Lee University,Lexington,VA,Not applicable,0.5588000000000001,0.455,0.5462,0.53302,"Washington and Lee University, Lexington, VA",37.7869705,-79.4413852,Strong,6,189,22,1687001824.392,2427013821.1
 235024,Cornish College of the Arts,Seattle,WA,Not applicable,0.427,0.3821,0.5036,0.44869,"Cornish College of the Arts, Seattle, WA",47.61680045,-122.33586595,Stable,3,436,12,13273055.254,61262452.36
 235422,Heritage University,Toppenish,WA,Not applicable,0.3224,0.4059,0.5474,0.42915,"Heritage University, Toppenish, WA",46.37415319999999,-120.3942754804292,Vulnerable,2,540,12,39637676.092,79931830.755
@@ -535,8 +535,8 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 413617,College of Menominee Nation,Keshena,WI,Not applicable,0.2351,0.3775,0.4911999999999999,0.36607,"College of Menominee Nation, Keshena, WI",44.85554755,-88.6245843192466,Critical,0,816,18,6129015.696,15866311.453
 441982,Franklin W Olin College of Engineering,Needham,MA,Not applicable,0.2759,0.3936,0.516,0.39553,"Franklin W Olin College of Engineering, Needham, MA",42.2900134,-71.26080120734075,At-Risk,1,710,51,463549249.441,367869925.15
 459851,Herzing University-Brookfield,Brookfield,WI,Not applicable,0.2562,0.4056,0.486,0.37804,"Herzing University-Brookfield, Brookfield, WI",43.0356884,-88.111052,Critical,0,775,18,736582.4,114353363.081
-461795,North American University,Stafford,TX,Not applicable,0.4884,0.4086999999999999,0.4864,0.47168,"North American University, Stafford, TX",,,Secure,4,344,31,0.0,10900848.826
-480985,Midwives College of Utah,Salt Lake City,UT,Not applicable,0.2389,0.359,0.4907999999999999,0.36373,"Midwives College of Utah, Salt Lake City, UT",,,Critical,0,822,2,0.0,929232.735
+461795,North American University,Stafford,TX,Not applicable,0.4884,0.4086999999999999,0.4864,0.47168,"North American University, Stafford, TX",39.68,-115.32,Secure,4,344,31,0.0,10900848.826
+480985,Midwives College of Utah,Salt Lake City,UT,Not applicable,0.2389,0.359,0.4907999999999999,0.36373,"Midwives College of Utah, Salt Lake City, UT",34.29,-120.71,Critical,0,822,2,0.0,929232.735
 148876,St. Augustine College,Chicago,IL,Other,0.2546,0.3951,0.4964,0.3794599999999999,"St. Augustine College, Chicago, IL",41.97235065,-87.66336450066497,Critical,0,770,42,0.0,17784891.653
 153366,Graceland University-Lamoni,Lamoni,IA,Other,0.3285,0.4145,0.5047999999999999,0.4162599999999999,"Graceland University-Lamoni, Lamoni, IA",40.61690775,-93.9255655729911,Vulnerable,2,604,25,57187444.612,126178537.299
 154749,Bethel College-North Newton,North Newton,KS,Other,0.2963,0.3854999999999999,0.9987,0.59529,"Bethel College-North Newton, North Newton, KS",38.0761894,-97.34339387481224,Strong,6,126,17,40064717.461,73323262.447
@@ -545,7 +545,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 399911,Soka University of America,Aliso Viejo,CA,Other,0.3188,0.3947,0.9983,0.60597,"Soka University of America, Aliso Viejo, CA",33.55467520000001,-117.7347404585082,Strong,6,118,30,1651240054.129,1929779484.025
 449870,University of the West,Rosemead,CA,Other,0.2392,0.3782999999999999,0.4916,0.3680299999999999,"University of the West, Rosemead, CA",34.04497585,-118.0830001950614,Critical,0,813,30,17610134.928,35653418.898
 137564,Southeastern University,Lakeland,FL,Pentecostal,0.7304,0.6509999999999999,0.4836,0.61574,"Southeastern University, Lakeland, FL",28.03048365,-81.91800905687728,Strong,6,111,30,8537421.01,64281352.314
-139630,Emmanuel University,Franklin Springs,GA,Pentecostal,0.3605,0.3909,0.4924,0.4193699999999999,"Emmanuel University, Franklin Springs, GA",,,Vulnerable,2,592,26,0.0,32282991.598
+139630,Emmanuel University,Franklin Springs,GA,Pentecostal,0.3605,0.3909,0.4924,0.4193699999999999,"Emmanuel University, Franklin Springs, GA",37.53,-107.47,Vulnerable,2,592,26,0.0,32282991.598
 174437,North Central University,Minneapolis,MN,Pentecostal,0.3684,0.4083,0.4968,0.42777,"North Central University, Minneapolis, MN",44.9688959,-93.2618548027095,Vulnerable,2,549,23,4944882.549,40497980.281
 177339,Evangel University,Springfield,MO,Pentecostal,0.349,0.4439,0.4976,0.42745,"Evangel University, Springfield, MO",37.22175245,-93.26497163536374,Vulnerable,2,553,29,32784245.697,110416763.301
 200484,Trinity Bible College and Graduate School,Ellendale,ND,Pentecostal,0.2486,0.3843999999999999,0.49,0.37237,"Trinity Bible College and Graduate School, Ellendale, ND",46.0033,-98.5265,Critical,0,800,4,1869314.407,33405116.3
@@ -557,8 +557,8 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 120254,Occidental College,Los Angeles,CA,Presbyterian,0.5315,0.4412,0.5318999999999999,0.51362,"Occidental College, Los Angeles, CA",34.12719495,-118.209920299892,Healthy,5,238,30,647599161.621,885803374.437
 133492,Eckerd College,Saint Petersburg,FL,Presbyterian,0.6244,0.4309,0.502,0.53674,"Eckerd College, Saint Petersburg, FL",27.71426575,-82.68554318351735,Strong,6,184,30,92936720.648,204446180.189
 138600,Agnes Scott College,Decatur,GA,Presbyterian,0.4558,0.4149,0.5096,0.4691599999999999,"Agnes Scott College, Decatur, GA",33.7688851,-84.2944452,Secure,4,355,26,224590950.489,309921034.962
-139393,Covenant College,Lookout Mountain,GA,Presbyterian,0.4357,0.4013,0.5569,0.47734,"Covenant College, Lookout Mountain, GA",,,Secure,4,323,26,69990149.054,99448927.36
-142294,The College of Idaho,Caldwell,ID,Presbyterian,0.4586,0.4094,0.5255,0.47555,"The College of Idaho, Caldwell, ID",,,Secure,4,329,4,135413929.835,175949466.75
+139393,Covenant College,Lookout Mountain,GA,Presbyterian,0.4357,0.4013,0.5569,0.47734,"Covenant College, Lookout Mountain, GA",37.76,-107.24,Secure,4,323,26,69990149.054,99448927.36
+142294,The College of Idaho,Caldwell,ID,Presbyterian,0.4586,0.4094,0.5255,0.47555,"The College of Idaho, Caldwell, ID",31.24,-123.76,Secure,4,329,4,135413929.835,175949466.75
 143288,Blackburn College,Carlinville,IL,Presbyterian,0.267,0.3821,0.5132,0.3885499999999999,"Blackburn College, Carlinville, IL",39.28959765,-89.871577121424,Critical,0,740,42,36655744.222,72538790.109
 145691,Illinois College,Jacksonville,IL,Presbyterian,0.3924,0.4160999999999999,0.5088,0.4437299999999999,"Illinois College, Jacksonville, IL",39.7291655,-90.24647315398732,Stable,3,462,42,139984448.094,161776305.951
 146427,Knox College,Galesburg,IL,Presbyterian,0.3358,0.4075,0.4996,0.41569,"Knox College, Galesburg, IL",40.9419283,-90.3722582708558,Vulnerable,2,608,42,162041855.844,238647740.163
@@ -582,12 +582,12 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 198756,Johnson C Smith University,Charlotte,NC,Presbyterian,0.4157,0.4021,0.5171,0.45357,"Johnson C Smith University, Charlotte, NC",35.24379475,-80.85543225981756,Secure,4,414,35,57254442.975,291284374.543
 198808,Lees-McRae College,Banner Elk,NC,Presbyterian,0.3806,0.4032,0.4932,0.4301899999999999,"Lees-McRae College, Banner Elk, NC",36.15271495,-81.88158941244929,Vulnerable,2,534,35,43502234.738,81315824.402
 199272,William Peace University,Raleigh,NC,Presbyterian,0.3851,0.3994,0.5036,0.43539,"William Peace University, Raleigh, NC",35.7895729,-78.63722585982836,Stable,3,506,35,42727479.414,60260784.096
-199412,Queens University of Charlotte,Charlotte,NC,Presbyterian,0.7106,0.4800999999999999,0.4868,0.57496,"Queens University of Charlotte, Charlotte, NC",,,Strong,6,143,35,188239940.226,59572672.737
+199412,Queens University of Charlotte,Charlotte,NC,Presbyterian,0.7106,0.4800999999999999,0.4868,0.57496,"Queens University of Charlotte, Charlotte, NC",32.21,-122.79,Strong,6,143,35,188239940.226,59572672.737
 199698,St. Andrews University,Laurinburg,NC,Presbyterian,0.4013,0.389,0.4677,0.42542,"St. Andrews University, Laurinburg, NC",34.7407164,-79.4814373,Vulnerable,2,566,35,3296219.885,-34904744.6
-199865,Warren Wilson College,Swannanoa,NC,Presbyterian,0.3817,0.392,0.4984,0.4304699999999999,"Warren Wilson College, Swannanoa, NC",,,Vulnerable,2,532,35,57134117.157,82331408.588
+199865,Warren Wilson College,Swannanoa,NC,Presbyterian,0.3817,0.392,0.4984,0.4304699999999999,"Warren Wilson College, Swannanoa, NC",39.03,-115.97,Vulnerable,2,532,35,57134117.157,82331408.588
 200156,University of Jamestown,Jamestown,ND,Presbyterian,0.3285,0.4145,0.4956,0.41257,"University of Jamestown, Jamestown, ND",46.9138872,-98.69703370758988,Vulnerable,2,625,4,47264091.841,71228694.272
 204264,Muskingum University,New Concord,OH,Presbyterian,0.4021,0.4294,0.5008,0.44706,"Muskingum University, New Concord, OH",39.9995479,-81.73888231752169,Stable,3,443,46,101320627.34,181934404.92
-206589,The College of Wooster,Wooster,OH,Presbyterian,0.4278,0.4257999999999999,0.5152,0.4623899999999999,"The College of Wooster, Wooster, OH",,,Secure,4,379,46,487929095.892,659300192.165
+206589,The College of Wooster,Wooster,OH,Presbyterian,0.4278,0.4257999999999999,0.5152,0.4623899999999999,"The College of Wooster, Wooster, OH",31.32,-123.68,Secure,4,379,46,487929095.892,659300192.165
 207971,University of Tulsa,Tulsa,OK,Presbyterian,0.4424,0.5231,0.5474,0.50056,"University of Tulsa, Tulsa, OK",36.1523306,-95.94596023877985,Healthy,5,263,7,774445314.685,1697265785.199
 211088,Arcadia University,Glenside,PA,Presbyterian,0.3939999999999999,0.4884,0.4884,0.45065,"Arcadia University, Glenside, PA",40.0917501,-75.16511509669805,Stable,3,424,51,95279582.273,97428123.429
 212656,Geneva College,Beaver Falls,PA,Presbyterian,0.3238,0.4075,0.4574,0.3939999999999999,"Geneva College, Beaver Falls, PA",40.77108845,-80.32171346880179,At-Risk,1,717,51,68337055.35,106018080.335
@@ -616,8 +616,8 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 120537,Hope International University,Fullerton,CA,Protestant,0.2799,0.4172,0.4844,0.38919,"Hope International University, Fullerton, CA",33.8763883,-117.8855690297249,At-Risk,1,736,30,9939387.575,10584538.459
 121309,Point Loma Nazarene University,San Diego,CA,Protestant,0.6598,0.5636,0.4907999999999999,0.5729299999999999,"Point Loma Nazarene University, San Diego, CA",32.7169659,-117.2510853,Strong,6,145,30,75656679.618,199964739.515
 122728,William Jessup University,Rocklin,CA,Protestant,0.3246,0.4379999999999999,0.4856,0.41171,"William Jessup University, Rocklin, CA",38.8200917,-121.2924903547884,Vulnerable,2,628,30,7489589.15,40996649.83
-132879,Johnson University Florida,Kissimmee,FL,Protestant,0.2321,0.3809,0.4836,0.36251,"Johnson University Florida, Kissimmee, FL",,,Critical,0,824,30,3171111.984,-1299400.726
-138868,Point University,West Point,GA,Protestant,0.4529999999999999,0.3954999999999999,0.4821,0.45316,"Point University, West Point, GA",,,Secure,4,417,26,6448927.365,21502140.708
+132879,Johnson University Florida,Kissimmee,FL,Protestant,0.2321,0.3809,0.4836,0.36251,"Johnson University Florida, Kissimmee, FL",37.9,-117.1,Critical,0,824,30,3171111.984,-1299400.726
+138868,Point University,West Point,GA,Protestant,0.4529999999999999,0.3954999999999999,0.4821,0.45316,"Point University, West Point, GA",34.27,-120.73,Secure,4,417,26,6448927.365,21502140.708
 142461,Northwest Nazarene University,Nampa,ID,Protestant,0.3909,0.4396,0.5056,0.44654,"Northwest Nazarene University, Nampa, ID",43.5610104,-116.5658239708775,Stable,3,444,4,44162315.279,150875443.902
 144971,Eureka College,Eureka,IL,Protestant,0.305,0.3893999999999999,0.5024000000000001,0.40088,"Eureka College, Eureka, IL",40.71304545,-89.26588087495756,At-Risk,1,680,42,36637553.133,40906087.901
 147679,North Park University,Chicago,IL,Protestant,0.5124,0.457,0.5052,0.49845,"North Park University, Chicago, IL",41.97487485,-87.70538274756231,Healthy,5,270,42,138337327.942,271406158.543
@@ -637,7 +637,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 170091,Great Lakes Christian College,Lansing,MI,Protestant,0.2686,0.3802,0.4821,0.37636,"Great Lakes Christian College, Lansing, MI",42.75431465,-84.63851156802842,Critical,0,782,24,545434.985,1074824.77
 170301,Hope College,Holland,MI,Protestant,0.8119,0.4653,0.5576,0.6408499999999999,"Hope College, Holland, MI",42.78672450000001,-86.09964267156195,Elite,7,96,24,361717192.752,594073816.453
 171881,Kuyper College,Grand Rapids,MI,Protestant,0.2467,0.379,0.4447,0.35239,"Kuyper College, Grand Rapids, MI",43.0226231,-85.59218988093869,Critical,0,834,24,5817271.388,16913178.507
-174491,University of Northwestern-St Paul,Saint Paul,MN,Protestant,0.4602,0.4321,0.4677,0.45759,"University of Northwestern-St Paul, Saint Paul, MN",,,Secure,4,400,23,26846265.413,187561928.658
+174491,University of Northwestern-St Paul,Saint Paul,MN,Protestant,0.4602,0.4321,0.4677,0.45759,"University of Northwestern-St Paul, Saint Paul, MN",34.0,-111.0,Secure,4,400,23,26846265.413,187561928.658
 176789,Calvary University,Kansas City,MO,Protestant,0.242,0.3859,0.5164,0.38059,"Calvary University, Kansas City, MO",38.837399,-94.54678318732306,Critical,0,765,29,-496792.523,10354495.806
 176910,Central Christian College of the Bible,Moberly,MO,Protestant,0.2321,0.3756,0.49,0.36401,"Central Christian College of the Bible, Moberly, MO",39.3960492,-92.42717583557408,Critical,0,819,29,2698758.96,10229906.31
 177065,Columbia College,Columbia,MO,Protestant,0.4211,0.397,0.0567999999999999,0.27046,"Columbia College, Columbia, MO",38.95833745,-92.3259443469596,Critical,0,842,29,17525924.536,45963152.404
@@ -650,7 +650,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 199458,Mid-Atlantic Christian University,Elizabeth City,NC,Protestant,0.2575,0.3809,0.4924,0.37619,"Mid-Atlantic Christian University, Elizabeth City, NC",36.3044141,-76.21636491459975,Critical,0,783,35,4382862.376,4762646.463
 199847,Wake Forest University,Winston-Salem,NC,Protestant,0.9748,0.7558,0.5036,0.7424200000000001,"Wake Forest University, Winston-Salem, NC",36.13389295,-80.27555779127688,Elite,7,47,35,1328272564.692,2168581273.505
 201964,Ohio Christian University,Circleville,OH,Protestant,0.2478999999999999,0.3806,0.603,0.41656,"Ohio Christian University, Circleville, OH",39.6118927,-82.90625672679114,Vulnerable,2,602,46,5983282.801,32391416.694
-202903,Gods Bible School and College,Cincinnati,OH,Protestant,0.2617,0.379,0.5867,0.41523,"Gods Bible School and College, Cincinnati, OH",,,Vulnerable,2,610,46,3903272.102,12904550.236
+202903,Gods Bible School and College,Cincinnati,OH,Protestant,0.2617,0.379,0.5867,0.41523,"Gods Bible School and College, Cincinnati, OH",30.67,-114.33,Vulnerable,2,610,46,3903272.102,12904550.236
 204501,Oberlin College,Oberlin,OH,Protestant,0.6041,0.4562,0.5422,0.54977,"Oberlin College, Oberlin, OH",41.29571765,-82.22156959263393,Strong,6,167,46,1543578050.983,1823091704.893
 206862,Southern Nazarene University,Bethany,OK,Protestant,0.3817,0.4578,0.5231,0.4535099999999999,"Southern Nazarene University, Bethany, OK",35.5138091,-97.62930068685996,Secure,4,415,7,56401621.176,64577648.548
 207582,Oral Roberts University,Tulsa,OK,Protestant,0.6225,0.4924,0.5068,0.55019,"Oral Roberts University, Tulsa, OK",36.0508252,-95.95213552843208,Strong,6,166,7,54085352.459,358247448.524
@@ -660,7 +660,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 217749,Bob Jones University,Greenville,SC,Protestant,0.5777,0.457,0.488,0.51768,"Bob Jones University, Greenville, SC",34.8718605,-82.36517984802921,Healthy,5,226,19,22240535.199,97268705.474
 220473,Johnson University,Knoxville,TN,Protestant,0.3192,0.4175999999999999,0.5438000000000001,0.42877,"Johnson University, Knoxville, TN",35.93541995,-83.74939490120485,Vulnerable,2,545,28,131121696.588,241723069.773
 221892,Trevecca Nazarene University,Nashville,TN,Protestant,0.4282,0.5722,0.4943999999999999,0.48347,"Trevecca Nazarene University, Nashville, TN",36.14154689999999,-86.75328273884115,Healthy,5,304,28,119142132.576,179049982.147
-225885,Jarvis Christian University,Hawkins,TX,Protestant,0.3021999999999999,0.3897,0.5068,0.40158,"Jarvis Christian University, Hawkins, TX",,,At-Risk,1,673,31,143804.286,65742335.587
+225885,Jarvis Christian University,Hawkins,TX,Protestant,0.3021999999999999,0.3897,0.5068,0.40158,"Jarvis Christian University, Hawkins, TX",31.66,-123.34,At-Risk,1,673,31,143804.286,65742335.587
 228875,Texas Christian University,Fort Worth,TX,Protestant,0.9987,0.7791,0.5088,0.75872,"Texas Christian University, Fort Worth, TX",32.7080148,-97.36119385339882,Elite,7,36,31,3065408991.313,4090875019.29
 231095,Sterling College,Craftsbury Common,VT,Protestant,0.2361,0.3741,0.492,0.36611,"Sterling College, Craftsbury Common, VT",44.65177415,-72.38233221619343,Critical,0,815,7,6857264.81,27292660.517
 231095,Sterling College,Craftsbury Common,VT,Protestant,0.2361,0.3741,0.492,0.36611,"Sterling College, Craftsbury Common, VT",44.65177415,-72.38233221619343,Critical,0,815,7,1123380.243,6579179.953
@@ -668,27 +668,27 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 232609,University of Lynchburg,Lynchburg,VA,Protestant,0.5168,0.5347,0.9599,0.6977500000000001,"University of Lynchburg, Lynchburg, VA",37.39874285,-79.18404787841646,Elite,7,74,22,163091063.495,217819920.869
 237181,Bethany College,Bethany,WV,Protestant,0.3068,0.3848,0.488,0.39492,"Bethany College, Bethany, WV",40.20580445,-80.56165856727861,At-Risk,1,715,6,56798919.108,41196170.937
 237181,Bethany College,Bethany,WV,Protestant,0.3068,0.3848,0.488,0.39492,"Bethany College, Bethany, WV",40.20580445,-80.56165856727861,At-Risk,1,715,6,21213637.344,8525509.56
-417734,Southeast Missouri Hospital College of Nursing and Health Sciences,Cape Girardeau,MO,Protestant,0.2438,0.3882,0.4637,0.36068,"Southeast Missouri Hospital College of Nursing and Health Sciences, Cape Girardeau, MO",,,Critical,0,827,29,5820.559,-625525640.233
-417752,Messenger College,Bedford,TX,Protestant,0.241,0.3764,0.4689,0.35928,"Messenger College, Bedford, TX",,,Critical,0,829,31,921567.679,2803085.853
-440396,New Saint Andrews College,Moscow,ID,Protestant,0.3224,0.3848,0.49,0.40196,"New Saint Andrews College, Moscow, ID",,,At-Risk,1,670,4,163454.726,4982505.784
-457484,Pacific Rim Christian University,Honolulu,HI,Protestant,0.2517,0.3793999999999999,0.4852,0.3706799999999999,"Pacific Rim Christian University, Honolulu, HI",,,Critical,0,807,3,24742.237,1390110.36
-461528,Manna University,Fayetteville,NC,Protestant,0.242,0.3913,0.4313,0.34761,"Manna University, Fayetteville, NC",,,Critical,0,838,35,61377.151,926135.723
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,Cape Girardeau,MO,Protestant,0.2438,0.3882,0.4637,0.36068,"Southeast Missouri Hospital College of Nursing and Health Sciences, Cape Girardeau, MO",36.32,-118.68,Critical,0,827,29,5820.559,-625525640.233
+417752,Messenger College,Bedford,TX,Protestant,0.241,0.3764,0.4689,0.35928,"Messenger College, Bedford, TX",39.93,-115.07,Critical,0,829,31,921567.679,2803085.853
+440396,New Saint Andrews College,Moscow,ID,Protestant,0.3224,0.3848,0.49,0.40196,"New Saint Andrews College, Moscow, ID",36.38,-118.62,At-Risk,1,670,4,163454.726,4982505.784
+457484,Pacific Rim Christian University,Honolulu,HI,Protestant,0.2517,0.3793999999999999,0.4852,0.3706799999999999,"Pacific Rim Christian University, Honolulu, HI",35.52,-119.48,Critical,0,807,3,24742.237,1390110.36
+461528,Manna University,Fayetteville,NC,Protestant,0.242,0.3913,0.4313,0.34761,"Manna University, Fayetteville, NC",35.1,-119.9,Critical,0,838,35,61377.151,926135.723
 481225,Mid-South Christian College,Memphis,TN,Protestant,0.2407,0.3901,0.5164,0.38091,"Mid-South Christian College, Memphis, TN",35.064191,-89.911893,Critical,0,763,28,176931.462,853806.881
 140951,Savannah College of Art and Design,Savannah,GA,Roman Catholic,0.9987,0.8518000000000001,0.5186999999999999,0.7772100000000001,"Savannah College of Art and Design, Savannah, GA",32.07776915,-81.10099365718662,Elite,7,28,26,450294890.895,2187777962.432
-178059,Maryville University of Saint Louis,Saint Louis,MO,Roman Catholic,0.5650999999999999,0.8531,0.4896,0.59242,"Maryville University of Saint Louis, Saint Louis, MO",,,Strong,6,128,29,81578590.274,189878036.995
+178059,Maryville University of Saint Louis,Saint Louis,MO,Roman Catholic,0.5650999999999999,0.8531,0.4896,0.59242,"Maryville University of Saint Louis, Saint Louis, MO",35.91,-109.09,Strong,6,128,29,81578590.274,189878036.995
 190716,D'Youville  University,Buffalo,NY,Roman Catholic,0.3369,0.4777,0.494,0.42792,"D'Youville  University, Buffalo, NY",42.90283580000001,-78.8910200854379,Vulnerable,2,548,75,50383952.929,185083052.191
-190761,Dominican University New York,Orangeburg,NY,Roman Catholic,0.4598,0.4384,0.4852,0.46569,"Dominican University New York, Orangeburg, NY",,,Secure,4,368,75,13325991.022,37661414.487
+190761,Dominican University New York,Orangeburg,NY,Roman Catholic,0.4598,0.4384,0.4852,0.46569,"Dominican University New York, Orangeburg, NY",38.99,-116.01,Secure,4,368,75,13325991.022,37661414.487
 192819,Marist College,Poughkeepsie,NY,Roman Catholic,0.7776000000000001,0.603,0.4988,0.63111,"Marist College, Poughkeepsie, NY",41.722007,-73.93438356318902,Elite,7,100,75,551067513.227,841637356.409
 192864,Marymount Manhattan College,New York,NY,Roman Catholic,0.4681,0.4222999999999999,0.4911999999999999,0.4682,"Marymount Manhattan College, New York, NY",40.76893065,-73.959696351204,Secure,4,360,75,33134238.345,108625873.209
 193016,Mercy University,Dobbs Ferry,NY,Roman Catholic,0.7412000000000001,0.6602,0.5032,0.62974,"Mercy University, Dobbs Ferry, NY",41.02156265,-73.87446425294797,Elite,7,101,75,394310983.225,516857799.146
 195173,St. Francis College,Brooklyn,NY,Roman Catholic,0.4689,0.4490999999999999,0.4821,0.47023,"St. Francis College, Brooklyn, NY",40.69306659999999,-73.99220306902977,Secure,4,347,75,9684589.08,46135411.068
-195243,St. Thomas Aquinas College,Sparkill,NY,Roman Catholic,0.33,0.4192,0.496,0.4142699999999999,"St. Thomas Aquinas College, Sparkill, NY",,,Vulnerable,2,615,75,22562522.916,77333000.745
+195243,St. Thomas Aquinas College,Sparkill,NY,Roman Catholic,0.33,0.4192,0.496,0.4142699999999999,"St. Thomas Aquinas College, Sparkill, NY",33.58,-121.42,Vulnerable,2,615,75,22562522.916,77333000.745
 195544,St. Joseph's University-New York,Brooklyn,NY,Roman Catholic,0.5084000000000001,0.5287,0.4911999999999999,0.5055700000000001,"St. Joseph's University-New York, Brooklyn, NY",40.69042755,-73.96777524013841,Healthy,5,254,75,89161961.582,146976461.063
 216667,Washington & Jefferson College,Washington,PA,Roman Catholic,0.3635,0.411,0.5036,0.4290699999999999,"Washington & Jefferson College, Washington, PA",40.1719209,-80.24134964025063,Vulnerable,2,542,51,147129493.059,239924111.451
 102234,Spring Hill College,Mobile,AL,Roman Catholic               ,0.3390999999999999,0.4175999999999999,0.4785,0.4105899999999999,"Spring Hill College, Mobile, AL",30.6920656,-88.13570396556952,Vulnerable,2,632,11,31286693.21,64150651.666
 119173,Mount Saint Mary's University,Los Angeles,CA,Roman Catholic               ,0.58,0.4614,0.5092,0.52796,"Mount Saint Mary's University, Los Angeles, CA",34.08522005,-118.4824686305502,Strong,6,197,30,193391510.075,347378232.261
 122931,Santa Clara University,Santa Clara,CA,Roman Catholic               ,0.982,0.7088,0.512,0.7392700000000001,"Santa Clara University, Santa Clara, CA",37.3486243,-121.9365440053793,Elite,7,49,30,1667141461.573,2652422017.51
-124292,Thomas Aquinas College,Santa Paula,CA,Roman Catholic               ,0.321,0.3963,0.5012,0.40818,"Thomas Aquinas College, Santa Paula, CA",,,At-Risk,1,642,30,39349475.198,121546070.903
+124292,Thomas Aquinas College,Santa Paula,CA,Roman Catholic               ,0.321,0.3963,0.5012,0.40818,"Thomas Aquinas College, Santa Paula, CA",36.45,-118.55,At-Risk,1,642,30,39349475.198,121546070.903
 127918,Regis University,Denver,CO,Roman Catholic               ,0.5231,0.502,0.4896,0.50547,"Regis University, Denver, CO",39.78971110000001,-105.0313694671746,Healthy,5,255,5,113013625.596,155075628.404
 128498,Albertus Magnus College,New Haven,CT,Roman Catholic               ,0.3666,0.4106,0.4884,0.4241499999999999,"Albertus Magnus College, New Haven, CT",41.332772,-72.92254564135219,Vulnerable,2,571,14,30314928.582,39786525.049
 129242,Fairfield University,Fairfield,CT,Roman Catholic               ,0.9939,0.6126,0.4996,0.71985,"Fairfield University, Fairfield, CT",41.15967565,-73.25740310197213,Elite,7,59,14,506631457.061,985944664.609
@@ -719,7 +719,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 153126,Clarke University,Dubuque,IA,Roman Catholic               ,0.3318,0.3994,0.5,0.41264,"Clarke University, Dubuque, IA",42.50961785,-90.69069442289413,Vulnerable,2,624,25,34581809.03,59203397.111
 153825,Loras College,Dubuque,IA,Roman Catholic               ,0.3192,0.4188,0.4749,0.40143,"Loras College, Dubuque, IA",42.50504945,-90.67885577552974,At-Risk,1,676,25,69353779.344,71430427.361
 154013,Mount Mercy University,Cedar Rapids,IA,Roman Catholic               ,0.3181,0.4349,0.5219,0.42302,"Mount Mercy University, Cedar Rapids, IA",42.002593,-91.65196889140891,Vulnerable,2,576,25,47705938.252,99743226.997
-154235,Saint Ambrose University,Davenport,IA,Roman Catholic               ,0.4013,0.4772999999999999,0.5175,0.4629999999999999,"Saint Ambrose University, Davenport, IA",,,Secure,4,377,25,269784163.69,399321855.669
+154235,Saint Ambrose University,Davenport,IA,Roman Catholic               ,0.4013,0.4772999999999999,0.5175,0.4629999999999999,"Saint Ambrose University, Davenport, IA",38.05,-116.95,Secure,4,377,25,269784163.69,399321855.669
 154712,Benedictine College,Atchison,KS,Roman Catholic               ,0.5175,0.4392,0.5,0.49485,"Benedictine College, Atchison, KS",39.57489275,-95.11379211168315,Healthy,5,276,17,80557269.571,197464476.643
 155007,Donnelly College,Kansas City,KS,Roman Catholic               ,0.2511,0.3904999999999999,0.5015999999999999,0.37923,"Donnelly College, Kansas City, KS",39.1126406,-94.6509576554054,Critical,0,771,17,9991206.131,36498073.542
 155335,Newman University,Wichita,KS,Roman Catholic               ,0.2935999999999999,0.4129,0.5008,0.4003799999999999,"Newman University, Wichita, KS",37.67176205,-97.3791849298535,At-Risk,1,685,17,29801362.67,48404142.654
@@ -732,7 +732,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 160065,University of Holy Cross,New Orleans,LA,Roman Catholic               ,0.2404,0.3978,0.5068,0.37849,"University of Holy Cross, New Orleans, LA",29.91198085,-89.99629395173727,Critical,0,774,8,11068692.372,26887482.82
 160074,Franciscan Missionaries of Our Lady University,Baton Rouge,LA,Roman Catholic               ,0.2559,0.4071,0.49,0.37982,"Franciscan Missionaries of Our Lady University, Baton Rouge, LA",30.40067515,-91.10924666026298,Critical,0,769,8,8223752.157,35645138.193
 160904,Xavier University of Louisiana,New Orleans,LA,Roman Catholic               ,0.4471,0.4713,0.5036,0.4745499999999999,"Xavier University of Louisiana, New Orleans, LA",29.9638897,-90.10922358519306,Secure,4,332,8,190208737.676,434362444.829
-161518,Saint Joseph's College of Maine,Standish,ME,Roman Catholic               ,0.304,0.4353,0.4947999999999999,0.40661,"Saint Joseph's College of Maine, Standish, ME",,,At-Risk,1,651,9,18024794.995,49301978.481
+161518,Saint Joseph's College of Maine,Standish,ME,Roman Catholic               ,0.304,0.4353,0.4947999999999999,0.40661,"Saint Joseph's College of Maine, Standish, ME",39.79,-105.21,At-Risk,1,651,9,18024794.995,49301978.481
 163046,Loyola University Maryland,Baltimore,MD,Roman Catholic               ,0.9803,0.5604,0.4988,0.70366,"Loyola University Maryland, Baltimore, MD",39.34835375,-76.61593184876489,Elite,7,70,13,364000678.801,662533916.36
 163462,Mount St. Mary's University,Emmitsburg,MD,Roman Catholic               ,0.6202000000000001,0.4546,0.492,0.53579,"Mount St. Mary's University, Emmitsburg, MD",39.68056055,-77.3465509414935,Strong,6,185,13,71321509.069,155782851.901
 163578,Notre Dame of Maryland University,Baltimore,MD,Roman Catholic               ,0.3001,0.4388,0.51,0.41184,"Notre Dame of Maryland University, Baltimore, MD",39.3514279,-76.61940070192435,Vulnerable,2,627,13,52105536.423,143371083.499
@@ -750,9 +750,9 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 170806,Madonna University,Livonia,MI,Roman Catholic               ,0.3874,0.4463,0.4916,0.44088,"Madonna University, Livonia, MI",42.3911354,-83.41034131285153,Stable,3,475,24,55890182.098,86451431.574
 172264,Siena Heights University,Adrian,MI,Roman Catholic               ,0.389,0.4368,0.4844,0.43674,"Siena Heights University, Adrian, MI",41.9062844,-84.01796520279541,Stable,3,500,24,16896367.564,76945590.195
 174747,College of Saint Benedict,Saint Joseph,MN,Roman Catholic               ,0.4376,0.4246999999999999,0.5132,0.46529,"College of Saint Benedict, Saint Joseph, MN",45.5594818,-94.3182962882594,Secure,4,371,23,139117428.055,258616139.049
-174792,Saint Johns University,Collegeville,MN,Roman Catholic               ,0.4633,0.4243,0.5347,0.4840899999999999,"Saint Johns University, Collegeville, MN",,,Healthy,5,301,23,348293685.553,570748243.304
+174792,Saint Johns University,Collegeville,MN,Roman Catholic               ,0.4633,0.4243,0.5347,0.4840899999999999,"Saint Johns University, Collegeville, MN",35.04,-119.96,Healthy,5,301,23,348293685.553,570748243.304
 174817,Saint Mary's University of Minnesota,Winona,MN,Roman Catholic               ,0.373,0.5765,0.5056,0.46674,"Saint Mary's University of Minnesota, Winona, MN",44.04534085,-91.69518768969844,Secure,4,364,23,79866307.872,191199788.338
-174899,The College of Saint Scholastica,Duluth,MN,Roman Catholic               ,0.4341,0.5426,0.4968,0.48088,"The College of Saint Scholastica, Duluth, MN",,,Healthy,5,313,23,119172059.162,166156784.089
+174899,The College of Saint Scholastica,Duluth,MN,Roman Catholic               ,0.4341,0.5426,0.4968,0.48088,"The College of Saint Scholastica, Duluth, MN",35.78,-119.22,Healthy,5,313,23,119172059.162,166156784.089
 174914,University of St Thomas,Saint Paul,MN,Roman Catholic               ,0.9779,0.7187,0.5004,0.73497,"University of St Thomas, Saint Paul, MN",44.94210585,-93.1894521972007,Elite,7,50,23,823063088.907,1481462568.583
 174914,University of St Thomas,Saint Paul,MN,Roman Catholic               ,0.9779,0.7187,0.5004,0.73497,"University of St Thomas, Saint Paul, MN",44.94210585,-93.1894521972007,Elite,7,50,23,173653696.596,194828996.041
 175005,St Catherine University,Saint Paul,MN,Roman Catholic               ,0.4578,0.5402,0.494,0.48875,"St Catherine University, Saint Paul, MN",44.924437,-93.18228844466312,Healthy,5,287,23,146812062.078,263981343.286
@@ -772,15 +772,15 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 184773,Georgian Court University,Lakewood,NJ,Roman Catholic               ,0.3446,0.4589999999999999,0.4892,0.42534,"Georgian Court University, Lakewood, NJ",40.0981853,-74.22820003536859,Vulnerable,2,567,15,53350610.433,81903038.939
 186432,Saint Peter's University,Jersey City,NJ,Roman Catholic               ,0.5497,0.4947999999999999,0.4871999999999999,0.51371,"Saint Peter's University, Jersey City, NJ",40.7276245,-74.07216785370294,Healthy,5,237,15,42989012.697,103389281.203
 186584,Seton Hall University,South Orange,NJ,Roman Catholic               ,0.9681,0.7145999999999999,0.4907999999999999,0.72639,"Seton Hall University, South Orange, NJ",40.75201795,-74.23952913701487,Elite,7,56,15,383270423.496,541542855.583
-186618,Saint Elizabeth University,Morristown,NJ,Roman Catholic               ,0.305,0.4160999999999999,0.4871999999999999,0.40013,"Saint Elizabeth University, Morristown, NJ",,,At-Risk,1,688,15,23769581.983,37007060.45
+186618,Saint Elizabeth University,Morristown,NJ,Roman Catholic               ,0.305,0.4160999999999999,0.4871999999999999,0.40013,"Saint Elizabeth University, Morristown, NJ",33.24,-111.76,At-Risk,1,688,15,23769581.983,37007060.45
 189705,Canisius University,Buffalo,NY,Roman Catholic               ,0.4067,0.4282,0.5064,0.45091,"Canisius University, Buffalo, NY",42.92180235,-78.86104023134388,Secure,4,421,75,171204951.251,197533393.202
 191241,Fordham University,Bronx,NY,Roman Catholic               ,0.9921,0.9394,0.4936,0.7820199999999999,"Fordham University, Bronx, NY",40.86173435000001,-73.88603169298054,Elite,7,22,75,1119385853.526,1736502623.575
 191621,Hilbert College,Hamburg,NY,Roman Catholic               ,0.3602,0.3939999999999999,0.4832,0.41619,"Hilbert College, Hamburg, NY",42.7567258,-78.8225324,Vulnerable,2,605,75,2773292.925,16193072.908
 191931,Iona University,New Rochelle,NY,Roman Catholic               ,0.5525,0.4876,0.498,0.51772,"Iona University, New Rochelle, NY",40.92723049999999,-73.78569089605243,Healthy,5,225,75,265444467.585,378273873.522
 192323,Le Moyne College,Syracuse,NY,Roman Catholic               ,0.4988,0.5032,0.5008,0.50048,"Le Moyne College, Syracuse, NY",43.04834115,-76.08517610832246,Healthy,5,264,75,274871296.043,350401752.739
-192703,Manhattan College,Riverdale,NY,Roman Catholic               ,0.5323,0.5175,0.4943999999999999,0.51417,"Manhattan College, Riverdale, NY",,,Healthy,5,236,75,194096872.743,328239210.858
+192703,Manhattan College,Riverdale,NY,Roman Catholic               ,0.5323,0.5175,0.4943999999999999,0.51417,"Manhattan College, Riverdale, NY",36.18,-108.82,Healthy,5,236,75,194096872.743,328239210.858
 192785,Maria College of Albany,Albany,NY,Roman Catholic               ,0.2492,0.4102,0.4832,0.37504,"Maria College of Albany, Albany, NY",42.65769465,-73.80656156364773,Critical,0,791,75,2304191.93,14870605.839
-193292,Molloy College,Rockville Centre,NY,Roman Catholic               ,0.5267000000000001,0.56,0.4864,0.51722,"Molloy College, Rockville Centre, NY",,,Healthy,5,229,75,59725036.107,156337486.757
+193292,Molloy College,Rockville Centre,NY,Roman Catholic               ,0.5267000000000001,0.56,0.4864,0.51722,"Molloy College, Rockville Centre, NY",30.74,-114.26,Healthy,5,229,75,59725036.107,156337486.757
 193353,Mount Saint Mary College,Newburgh,NY,Roman Catholic               ,0.2457,0.4243,0.5056,0.38542,"Mount Saint Mary College, Newburgh, NY",41.5118052,-74.01293211677414,Critical,0,746,75,13134362.876,107319903.262
 193399,University of Mount Saint Vincent,Bronx,NY,Roman Catholic               ,0.4471,0.5811999999999999,0.49,0.49107,"University of Mount Saint Vincent, Bronx, NY",40.91285705,-73.9069680173387,Healthy,5,280,75,59825554.916,111698291.865
 193973,Niagara University,Niagara University,NY,Roman Catholic               ,0.4924,0.5235,0.4943999999999999,0.49941,"Niagara University, Niagara University, NY",43.135814,-79.0349219,Healthy,5,267,75,115935141.919,207849729.019
@@ -788,15 +788,15 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 195720,St. John Fisher University,Rochester,NY,Roman Catholic               ,0.5064,0.4932,0.5075999999999999,0.50424,"St. John Fisher University, Rochester, NY",43.11506305,-77.51043167191582,Healthy,5,257,75,176083489.896,338901186.38
 195809,St. John's University-New York,Queens,NY,Roman Catholic               ,0.9857,0.8652,0.496,0.7656000000000001,"St. John's University-New York, Queens, NY",40.7255421,-73.7919066,Elite,7,33,75,972760736.921,1289242240.023
 196653,Trocaire College,Buffalo,NY,Roman Catholic               ,0.2385,0.4294,0.6338,0.43488,"Trocaire College, Buffalo, NY",42.8467327,-78.8127639,Stable,3,511,75,2555905.993,50825828.551
-197142,Villa Maria College,Buffalo,NY,Roman Catholic               ,0.2826,0.384,0.4844,0.38364,"Villa Maria College, Buffalo, NY",,,Critical,0,751,75,2102241.669,7389293.275
+197142,Villa Maria College,Buffalo,NY,Roman Catholic               ,0.2826,0.384,0.4844,0.38364,"Villa Maria College, Buffalo, NY",32.63,-122.37,Critical,0,751,75,2102241.669,7389293.275
 197984,Belmont Abbey College,Belmont,NC,Roman Catholic               ,0.5291,0.4097999999999999,0.484,0.48721,"Belmont Abbey College, Belmont, NC",35.2613455,-81.03635899466433,Healthy,5,293,35,11215593.673,24442481.246
 200217,University of Mary,Bismarck,ND,Roman Catholic               ,0.4325,0.537,0.5012,0.48088,"University of Mary, Bismarck, ND",46.72486905,-100.7516229007192,Healthy,5,313,4,80531197.061,198258361.047
 202480,University of Dayton,Dayton,OH,Roman Catholic               ,0.8945000000000001,0.8051,0.5004,0.7188800000000001,"University of Dayton, Dayton, OH",39.73845985,-84.17919478013708,Elite,7,61,46,1005326808.243,1986060460.863
-202912,Good Samaritan College of Nursing and Health Science,Cincinnati,OH,Roman Catholic               ,0.2464,0.389,0.44,0.35239,"Good Samaritan College of Nursing and Health Science, Cincinnati, OH",,,Critical,0,834,46,7462369.836,-60950565.588
+202912,Good Samaritan College of Nursing and Health Science,Cincinnati,OH,Roman Catholic               ,0.2464,0.389,0.44,0.35239,"Good Samaritan College of Nursing and Health Science, Cincinnati, OH",30.67,-114.33,Critical,0,834,46,7462369.836,-60950565.588
 203368,John Carroll University,University Heights,OH,Roman Catholic               ,0.3722,0.4976,0.5032,0.44969,"John Carroll University, University Heights, OH",41.49038105,-81.52875868134805,Stable,3,431,46,325715589.381,432342736.496
 203757,Lourdes University,Sylvania,OH,Roman Catholic               ,0.2719,0.4067,0.4832,0.38342,"Lourdes University, Sylvania, OH",41.71083765,-83.70816048949855,Critical,0,754,46,10581753.81,4739911.306
 204176,Mount Carmel College of Nursing,Columbus,OH,Roman Catholic               ,0.2432,0.4321,0.4932,0.3810199999999999,"Mount Carmel College of Nursing, Columbus, OH",39.9574536,-83.02096813501386,Critical,0,762,46,0.0,47706913.637
-204200,Mount St. Joseph University,Cincinnati,OH,Roman Catholic               ,0.3666,0.4384,0.4149,0.4002799999999999,"Mount St. Joseph University, Cincinnati, OH",,,At-Risk,1,686,46,78613661.345,138061721.23
+204200,Mount St. Joseph University,Cincinnati,OH,Roman Catholic               ,0.3666,0.4384,0.4149,0.4002799999999999,"Mount St. Joseph University, Cincinnati, OH",30.67,-114.33,At-Risk,1,686,46,78613661.345,138061721.23
 204617,Ohio Dominican University,Columbus,OH,Roman Catholic               ,0.3117,0.4071,0.4829,0.39929,"Ohio Dominican University, Columbus, OH",39.9945316,-82.94235868789129,At-Risk,1,692,46,12773434.923,12446707.236
 205957,Franciscan University of Steubenville,Steubenville,OH,Roman Catholic               ,0.5742,0.4821,0.4947999999999999,0.5240100000000001,"Franciscan University of Steubenville, Steubenville, OH",40.376755,-80.62193141522137,Strong,6,209,46,100437801.231,233798862.736
 206437,Walsh University,North Canton,OH,Roman Catholic               ,0.3594,0.4606,0.5521,0.45676,"Walsh University, North Canton, OH",40.8736512,-81.36876839501872,Secure,4,404,46,43211770.097,125674130.694
@@ -808,19 +808,19 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 212601,Gannon University,Erie,PA,Roman Catholic               ,0.4637,0.5855,0.4916,0.4992,"Gannon University, Erie, PA",42.1281052,-80.0867293,Healthy,5,268,51,90840219.032,222454157.655
 212832,Gwynedd Mercy University,Gwynedd Valley,PA,Roman Catholic               ,0.2803,0.4538,0.5036,0.40435,"Gwynedd Mercy University, Gwynedd Valley, PA",40.19868565,-75.23549052421265,At-Risk,1,659,51,71768015.318,118743670.047
 213321,King's College,Wilkes-Barre,PA,Roman Catholic               ,0.3332,0.4546,0.5075999999999999,0.42727,"King's College, Wilkes-Barre, PA",41.24954285,-75.87822679981367,Vulnerable,2,555,51,153490228.093,252598074.383
-213358,La Roche University,Pittsburgh,PA,Roman Catholic               ,0.2776,0.4282,0.4847999999999999,0.39063,"La Roche University, Pittsburgh, PA",,,At-Risk,1,731,51,24657688.209,18212196.897
+213358,La Roche University,Pittsburgh,PA,Roman Catholic               ,0.2776,0.4282,0.4847999999999999,0.39063,"La Roche University, Pittsburgh, PA",38.44,-106.56,At-Risk,1,731,51,24657688.209,18212196.897
 213367,La Salle University,Philadelphia,PA,Roman Catholic               ,0.3438,0.5179,0.4852,0.4351899999999999,"La Salle University, Philadelphia, PA",40.03762975,-75.15400251695417,Stable,3,507,51,84409019.91,81885857.672
 213826,Marywood University,Scranton,PA,Roman Catholic               ,0.3978,0.4677,0.4924,0.44963,"Marywood University, Scranton, PA",41.4345694,-75.63250168205998,Stable,3,432,51,52839123.388,161621001.887
 214069,Misericordia University,Dallas,PA,Roman Catholic               ,0.3771,0.4594,0.5004,0.4429,"Misericordia University, Dallas, PA",41.34579835,-75.97183590553288,Stable,3,466,51,81530926.057,185163415.286
 214166,Mount Aloysius College,Cresson,PA,Roman Catholic               ,0.3943,0.4048,0.5186999999999999,0.4462,"Mount Aloysius College, Cresson, PA",40.45871235,-78.60403790736467,Stable,3,446,51,70951109.824,168932328.861
 214272,Neumann University,Aston,PA,Roman Catholic               ,0.3813,0.4254,0.4813,0.43014,"Neumann University, Aston, PA",39.87556305,-75.44047445081735,Vulnerable,2,535,51,34503820.365,85614555.426
 215743,Saint Francis University,Loretto,PA,Roman Catholic               ,0.3802,0.4534,0.4896,0.43862,"Saint Francis University, Loretto, PA",40.5034672,-78.6382564,Stable,3,493,51,66492241.758,114407492.546
-215798,Saint Vincent College,Latrobe,PA,Roman Catholic               ,0.3195,0.429,0.5303,0.42576,"Saint Vincent College, Latrobe, PA",,,Vulnerable,2,564,51,161801010.27,327975852.161
+215798,Saint Vincent College,Latrobe,PA,Roman Catholic               ,0.3195,0.429,0.5303,0.42576,"Saint Vincent College, Latrobe, PA",39.72,-105.28,Vulnerable,2,564,51,161801010.27,327975852.161
 215947,Seton Hill University,Greensburg,PA,Roman Catholic               ,0.3457,0.4526,0.4943999999999999,0.42658,"Seton Hill University, Greensburg, PA",40.310888,-79.55688656928012,Vulnerable,2,558,51,66805051.782,154234336.176
 216597,Villanova University,Villanova,PA,Roman Catholic               ,0.8837999999999999,0.7896,0.5195000000000001,0.7191500000000001,"Villanova University, Villanova, PA",40.03575,-75.3401787,Elite,7,60,51,1518575983.857,2703642789.471
 217402,Providence College,Providence,RI,Roman Catholic               ,0.8487,0.5513,0.4956,0.6479300000000001,"Providence College, Providence, RI",41.8442938,-71.43548862523096,Elite,7,93,8,403791679.631,793298087.021
 217536,Salve Regina University,Newport,RI,Roman Catholic               ,0.5219,0.4809,0.5,0.5049399999999999,"Salve Regina University, Newport, RI",41.47120200000001,-71.30049366464249,Healthy,5,256,8,91651492.984,196084494.838
-219198,Mount Marty University,Yankton,SD,Roman Catholic               ,0.3096,0.4021,0.4924,0.4012599999999999,"Mount Marty University, Yankton, SD",,,At-Risk,1,678,4,40238850.429,49238369.625
+219198,Mount Marty University,Yankton,SD,Roman Catholic               ,0.3096,0.4021,0.4924,0.4012599999999999,"Mount Marty University, Yankton, SD",32.53,-112.47,At-Risk,1,678,4,40238850.429,49238369.625
 219833,Christian Brothers University,Memphis,TN,Roman Catholic               ,0.2364,0.4606,0.4952,0.3847899999999999,"Christian Brothers University, Memphis, TN",35.1289696,-89.98022497909133,Critical,0,747,28,45668943.468,100338815.703
 224323,University of Dallas,Irving,TX,Roman Catholic               ,0.5871,0.4586,0.5024000000000001,0.52752,"University of Dallas, Irving, TX",32.8487635,-96.92256763370509,Strong,6,198,31,102529121.625,170888353.356
 225627,University of the Incarnate Word,San Antonio,TX,Roman Catholic               ,0.9737,0.6462,0.494,0.71624,"University of the Incarnate Word, San Antonio, TX",29.4688466,-98.46910390973764,Elite,7,62,31,208463940.625,330697154.163
@@ -838,7 +838,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 239080,Marian University,Fond Du Lac,WI,Roman Catholic               ,0.3128,0.4153,0.4847999999999999,0.40213,"Marian University, Fond Du Lac, WI",43.7774111,-88.41412789035714,At-Risk,1,669,18,146419154.807,241641762.447
 239080,Marian University,Fond Du Lac,WI,Roman Catholic               ,0.3128,0.4153,0.4847999999999999,0.40213,"Marian University, Fond Du Lac, WI",43.7774111,-88.41412789035714,At-Risk,1,669,18,11321983.748,65202862.738
 239390,Mount Mary University,Milwaukee,WI,Roman Catholic               ,0.3654,0.4145,0.5032,0.43037,"Mount Mary University, Milwaukee, WI",43.07252155,-88.03145157759188,Vulnerable,2,533,18,32214601.169,80185937.891
-239716,Saint Norbert College,De Pere,WI,Roman Catholic               ,0.5291,0.4364,0.5239,0.5085000000000001,"Saint Norbert College, De Pere, WI",,,Healthy,5,247,18,185309261.437,375749470.991
+239716,Saint Norbert College,De Pere,WI,Roman Catholic               ,0.5291,0.4364,0.5239,0.5085000000000001,"Saint Norbert College, De Pere, WI",39.22,-105.78,Healthy,5,247,18,185309261.437,375749470.991
 240107,Viterbo University,La Crosse,WI,Roman Catholic               ,0.3684,0.4976,0.5347,0.46078,"Viterbo University, La Crosse, WI",43.80321085,-91.24456329560022,Secure,4,385,18,77125998.673,143929694.768
 446048,Ave Maria University,Ave Maria,FL,Roman Catholic               ,0.4836,0.4157,0.4996,0.47644,"Ave Maria University, Ave Maria, FL",26.33623575,-81.43985445316366,Secure,4,326,30,10716001.815,196483564.492
 101912,Oakwood University,Huntsville,AL,Seventh Day Adventist,0.4384,0.3959,0.4871999999999999,0.44944,"Oakwood University, Huntsville, AL",34.758802,-86.65459911789776,Stable,3,433,11,0.0,72959654.612
@@ -855,7 +855,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 140818,Piedmont University,Demorest,GA,United Church of Christ,0.4943999999999999,0.4757,0.49,0.4889,"Piedmont University, Demorest, GA",34.57027745,-83.54171067915166,Healthy,5,285,26,32599771.372,81440389.078
 144962,Elmhurst University,Elmhurst,IL,United Church of Christ,0.6045,0.5171,0.5028,0.54633,"Elmhurst University, Elmhurst, IL",41.89711725,-87.94692011451079,Strong,6,174,42,186980905.545,269384346.656
 162760,Hood College,Frederick,MD,United Church of Christ,0.5156000000000001,0.4454999999999999,0.506,0.4977499999999999,"Hood College, Frederick, MD",39.4229618,-77.41891707264057,Healthy,5,271,13,167463828.072,233514416.016
-171599,The University of Olivet,Olivet,MI,United Church of Christ,0.3904999999999999,0.3986,0.4301,0.4079699999999999,"The University of Olivet, Olivet, MI",,,At-Risk,1,645,24,0.0,-3736503.156
+171599,The University of Olivet,Olivet,MI,United Church of Christ,0.3904999999999999,0.3986,0.4301,0.4079699999999999,"The University of Olivet, Olivet, MI",31.13,-123.87,At-Risk,1,645,24,0.0,-3736503.156
 181020,Doane University,Crete,NE,United Church of Christ,0.3354,0.5068,0.5128,0.44066,"Doane University, Crete, NE",40.62131545,-96.94717593126433,Stable,3,476,11,126156480.593,243481513.398
 198215,Catawba College,Salisbury,NC,United Church of Christ,0.4118,0.4157,0.5351,0.46194,"Catawba College, Salisbury, NC",35.69155045,-80.48600853247686,Secure,4,382,35,570661751.383,738265489.817
 202514,Defiance College,Defiance,OH,United Church of Christ,0.282,0.3854999999999999,0.5315,0.40255,"Defiance College, Defiance, OH",41.29781850000001,-84.35295442000856,At-Risk,1,665,46,21541524.969,23806254.176
