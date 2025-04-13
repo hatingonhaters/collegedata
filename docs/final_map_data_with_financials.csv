@@ -14,29 +14,29 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 231581,Bridgewater College,Bridgewater,VA,Anabaptist,0.4602,0.4222999999999999,0.5004,0.46872,"Bridgewater College, Bridgewater, VA",38.3772626,-78.96809814655431,Secure,4,356,22,114186929.741,155135904.323
 232043,Eastern Mennonite University,Harrisonburg,VA,Anabaptist,0.3242,0.4203,0.5211,0.42222,"Eastern Mennonite University, Harrisonburg, VA",38.47216285,-78.87794515329837,Vulnerable,2,578,22,49620331.546,98633381.496
 101693,University of Mobile,Mobile,AL,Baptist,0.4598,0.4192,0.4932,0.46506,"University of Mobile, Mobile, AL",30.7919746,-88.13124153816352,Secure,4,373,11,25355319.679,50660170.556
-102049,Samford University,Birmingham,AL,Baptist,0.9307,0.6156,0.4952,0.69341,"Samford University, Birmingham, AL",,,Elite,7,75,11,490041746.4,550385456.079
+102049,Samford University,Birmingham,AL,Baptist,0.9307,0.6156,0.4952,0.69341,"Samford University, Birmingham, AL",33.4658,-86.7916,Elite,7,75,11,490041746.4,550385456.079
 106306,Arkansas Baptist College,Little Rock,AR,Baptist,0.2392,0.3677,0.4852,0.36335,"Arkansas Baptist College, Little Rock, AR",34.7349723,-92.2898356068249,Critical,0,823,7,0.0,91673010.031
 107512,Ouachita Baptist University,Arkadelphia,AR,Baptist,0.4301,0.429,0.5036,0.4593,"Ouachita Baptist University, Arkadelphia, AR",34.1307617,-93.05250677656252,Secure,4,392,7,151340751.651,184111722.769
 110361,California Baptist University,Riverside,CA,Baptist,0.8421,0.8806,0.4868,0.70757,"California Baptist University, Riverside, CA",33.9283239,-117.4259206205848,Elite,7,68,30,200790654.859,386591138.979
 133979,Florida Memorial University,Miami Gardens,FL,Baptist,0.5948,0.3943,0.4809,0.50915,"Florida Memorial University, Miami Gardens, FL",25.9175201,-80.27068544105553,Healthy,5,245,30,8702986.563,89701715.086
-137953,Trinity Baptist College,Jacksonville,FL,Baptist,0.3032999999999999,0.3821,0.4852,0.39186,"Trinity Baptist College, Jacksonville, FL",,,At-Risk,1,727,30,0.0,4465285.643
+137953,Trinity Baptist College,Jacksonville,FL,Baptist,0.3032999999999999,0.3821,0.4852,0.39186,"Trinity Baptist College, Jacksonville, FL",30.3609,-81.757,At-Risk,1,727,30,0.0,4465285.643
 139205,Brewton-Parker College,Mount Vernon,GA,Baptist,0.4309,0.3829,0.4785,0.44036,"Brewton-Parker College, Mount Vernon, GA",32.18538895796868,-82.58347271164341,Stable,3,481,26,9007040.303,40217632.009
 140447,Mercer University,Macon,GA,Baptist,0.9579,0.7467,0.496,0.7308,"Mercer University, Macon, GA",32.8289341,-83.65067020582131,Elite,7,52,26,596820645.75,824809847.413
 140553,Morehouse College,Atlanta,GA,Baptist,0.8568000000000001,0.4396,0.3078,0.5536800000000001,"Morehouse College, Atlanta, GA",33.74737405,-84.41609506200462,Strong,6,161,26,292320362.64,551769748.721
 140988,Shorter University,Rome,GA,Baptist,0.436,0.4118,0.5004,0.45694,"Shorter University, Rome, GA",34.25942875,-85.19527510695326,Secure,4,403,26,7788772.699,49254285.887
 146339,Judson University,Elgin,IL,Baptist,0.3314,0.4153,0.4852,0.40973,"Judson University, Elgin, IL",42.0609055,-88.29150749046332,At-Risk,1,637,42,11348072.443,16514643.79
 150604,Franklin College,Franklin,IN,Baptist,0.3997,0.4052,0.502,0.44175,"Franklin College, Franklin, IN",39.47660655,-86.03725773127834,Stable,3,472,23,103077723.117,121435558.448
-153320,Faith Baptist Bible College and Theological Seminary,Ankeny,IA,Baptist,0.3082,0.3886,0.5015999999999999,0.40168,"Faith Baptist Bible College and Theological Seminary, Ankeny, IA",,,At-Risk,1,671,25,9825859.626,17218718.966
+153320,Faith Baptist Bible College and Theological Seminary,Ankeny,IA,Baptist,0.3082,0.3886,0.5015999999999999,0.40168,"Faith Baptist Bible College and Theological Seminary, Ankeny, IA",41.7274,-93.6043,At-Risk,1,671,25,9825859.626,17218718.966
 155627,Ottawa University-Ottawa,Ottawa,KS,Baptist,0.3568,0.3917,0.4821,0.41393,"Ottawa University-Ottawa, Ottawa, KS",38.60293695,-95.2638028645363,Vulnerable,2,617,17,21732384.542,38812247.292
 156541,University of the Cumberlands,Williamsburg,KY,Baptist,0.5921,0.9906,0.4594,0.6186,"University of the Cumberlands, Williamsburg, KY",36.73674315,-84.16286166961402,Strong,6,110,16,502981178.591,777729655.667
 156745,Georgetown College,Georgetown,KY,Baptist,0.3943,0.4168,0.4852,0.43518,"Georgetown College, Georgetown, KY",38.20692074999999,-84.55403434882237,Stable,3,508,16,25877895.685,35311738.275
 159568,Louisiana Christian University,Pineville,LA,Baptist,0.3107,0.409,0.5064,0.40868,"Louisiana Christian University, Pineville, LA",31.3235321,-92.4258488256772,At-Risk,1,640,8,50376238.695,97883922.51
 160977,Bates College,Lewiston,ME,Baptist,0.42,0.442,0.5104,0.46058,"Bates College, Lewiston, ME",44.10656935,-70.20282870728443,Secure,4,386,9,538171251.941,762928090.364
-173160,Bethel University,Saint Paul,MN,Baptist,0.4086999999999999,0.4952,0.4932,0.45981,"Bethel University, Saint Paul, MN",,,Secure,4,388,23,102336837.068,156586967.915
-173160,Bethel University,Saint Paul,MN,Baptist,0.4086999999999999,0.4952,0.4932,0.45981,"Bethel University, Saint Paul, MN",,,Secure,4,388,23,12855674.236,41224846.036
-173160,Bethel University,Saint Paul,MN,Baptist,0.4086999999999999,0.4952,0.4932,0.45981,"Bethel University, Saint Paul, MN",,,Secure,4,388,23,11368919.048,34511235.245
+173160,Bethel University,Saint Paul,MN,Baptist,0.4086999999999999,0.4952,0.4932,0.45981,"Bethel University, Saint Paul, MN",45.0625,-93.1526,Secure,4,388,23,102336837.068,156586967.915
+173160,Bethel University,Saint Paul,MN,Baptist,0.4086999999999999,0.4952,0.4932,0.45981,"Bethel University, Saint Paul, MN",45.0625,-93.1526,Secure,4,388,23,12855674.236,41224846.036
+173160,Bethel University,Saint Paul,MN,Baptist,0.4086999999999999,0.4952,0.4932,0.45981,"Bethel University, Saint Paul, MN",45.0625,-93.1526,Secure,4,388,23,11368919.048,34511235.245
 176053,Mississippi College,Clinton,MS,Baptist,0.5438000000000001,0.5632,0.5056,0.53238,"Mississippi College, Clinton, MS",32.3354174,-90.33188238452227,Strong,6,191,6,90335905.662,244860710.34
-176336,Southeastern Baptist College,Laurel,MS,Baptist,0.2464,0.409,0.486,0.3747999999999999,"Southeastern Baptist College, Laurel, MS",,,Critical,0,792,6,0.0,1440768.54
+176336,Southeastern Baptist College,Laurel,MS,Baptist,0.2464,0.409,0.486,0.3747999999999999,"Southeastern Baptist College, Laurel, MS",31.6928,-89.1306,Critical,0,792,6,0.0,1440768.54
 176479,William Carey University,Hattiesburg,MS,Baptist,0.3576,0.5706,0.5032,0.45844,"William Carey University, Hattiesburg, MS",31.3037101,-89.29276386549502,Secure,4,396,6,42625004.452,208753286.677
 177542,Hannibal-LaGrange University,Hannibal,MO,Baptist,0.23,0.3886,0.5628,0.39491,"Hannibal-LaGrange University, Hannibal, MO",39.73271775000001,-91.39100114558696,At-Risk,1,716,29,5152412.609,17723564.401
 178244,Missouri Baptist University,Saint Louis,MO,Baptist,0.349,0.4451,0.4947999999999999,0.42656,"Missouri Baptist University, Saint Louis, MO",38.6419861,-90.46229806385276,Vulnerable,2,559,29,14680189.629,67710684.824
@@ -54,10 +54,10 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 199643,Shaw University,Raleigh,NC,Baptist,0.2783,0.4075,0.494,0.39046,"Shaw University, Raleigh, NC",35.77076885,-78.63697923267378,At-Risk,1,732,35,17549822.356,52886229.746
 199962,Wingate University,Wingate,NC,Baptist,0.7044,0.4928,0.4936,0.57774,"Wingate University, Wingate, NC",34.9871011,-80.43731492196923,Strong,6,142,35,155392138.056,234537537.851
 201654,Cedarville University,Cedarville,OH,Baptist,0.7334,0.516,0.5036,0.59797,"Cedarville University, Cedarville, OH",39.7540491,-83.81705182918216,Strong,6,125,46,56920085.868,416593059.796
-207157,Randall University,Moore,OK,Baptist,0.2736,0.3813,0.4904,0.3818999999999999,"Randall University, Moore, OK",,,Critical,0,759,7,555291.987,4578314.591
+207157,Randall University,Moore,OK,Baptist,0.2736,0.3813,0.4904,0.3818999999999999,"Randall University, Moore, OK",35.3392,-97.4864,Critical,0,759,7,555291.987,4578314.591
 207403,Oklahoma Baptist University,Shawnee,OK,Baptist,0.3752,0.4243,0.5136,0.4404099999999999,"Oklahoma Baptist University, Shawnee, OK",35.36446295,-96.93385103279996,Stable,3,480,7,208065709.699,322659034.141
 209065,Linfield University,McMinnville,OR,Baptist,0.4036,0.4431,0.5108,0.4543999999999999,"Linfield University, McMinnville, OR",45.1984734,-123.1981383587192,Secure,4,411,11,100128289.63,287321815.701
-210331,Corban University,Salem,OR,Baptist,0.2974,0.4211,0.5335,0.4166299999999999,"Corban University, Salem, OR",,,Vulnerable,2,601,11,1336877.258,24467942.101
+210331,Corban University,Salem,OR,Baptist,0.2974,0.4211,0.5335,0.4166299999999999,"Corban University, Salem, OR",44.8773,-123.0245,Vulnerable,2,601,11,1336877.258,24467942.101
 217633,Anderson University,Anderson,SC,Baptist,0.8531,0.5243,0.9968,0.84493,"Anderson University, Anderson, SC",34.51478935,-82.63874687710373,Elite,7,2,19,30777700.896,202568222.119
 217633,Anderson University,Anderson,SC,Baptist,0.8531,0.5243,0.9968,0.84493,"Anderson University, Anderson, SC",34.51478935,-82.63874687710373,Elite,7,2,19,40147184.087,69708298.057
 217688,Charleston Southern University,Charleston,SC,Baptist,0.7123,0.4760999999999999,0.4943999999999999,0.57788,"Charleston Southern University, Charleston, SC",32.9826445,-80.07109661611514,Strong,6,141,19,33920979.729,164119239.801
@@ -68,13 +68,13 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 219505,American Baptist College,Nashville,TN,Baptist,0.2367,0.3749,0.4871999999999999,0.36459,"American Baptist College, Nashville, TN",36.2022777,-86.7902765,Critical,0,818,28,569590.488,7872118.087
 219639,Baptist Health Sciences University,Memphis,TN,Baptist,0.2339,0.4013,0.5164,0.38043,"Baptist Health Sciences University, Memphis, TN",35.13653725,-90.02616776188766,Critical,0,767,28,135827700.113,98863733.351
 219806,Carson-Newman University,Jefferson City,TN,Baptist,0.3527,0.498,0.5044,0.44246,"Carson-Newman University, Jefferson City, TN",36.12206325,-83.4893262980502,Stable,3,467,28,70816811.484,141679623.991
-220206,Welch College,Gallatin,TN,Baptist,0.2693,0.3882,0.4936,0.38284,"Welch College, Gallatin, TN",,,Critical,0,756,28,5741961.174,21323342.194
+220206,Welch College,Gallatin,TN,Baptist,0.2693,0.3882,0.4936,0.38284,"Welch College, Gallatin, TN",36.3926,-86.4489,Critical,0,756,28,5741961.174,21323342.194
 221971,Union University,Jackson,TN,Baptist,0.3829,0.4669,0.5893999999999999,0.48235,"Union University, Jackson, TN",35.67712415,-88.86094997728624,Healthy,5,307,28,64660110.267,222563250.924
 223232,Baylor University,Waco,TX,Baptist,0.9987,0.9525,0.5124,0.7948000000000001,"Baylor University, Waco, TX",31.55043405,-97.1102905567766,Elite,7,14,31,2319964085.559,3769239200.629
 224226,Dallas Baptist University,Dallas,TX,Baptist,0.843,0.4749,0.5398,0.6480800000000001,"Dallas Baptist University, Dallas, TX",32.7108312,-96.946767972549,Elite,7,92,31,82425316.968,230082643.666
 224527,East Texas Baptist University,Marshall,TX,Baptist,0.58,0.425,0.4968,0.51573,"East Texas Baptist University, Marshall, TX",32.55795265,-94.37511342798528,Healthy,5,234,31,38381286.655,141689028.371
 225247,Hardin-Simmons University,Abilene,TX,Baptist,0.573,0.4454999999999999,0.5112,0.5227900000000001,"Hardin-Simmons University, Abilene, TX",32.4777117,-99.73415759382408,Healthy,5,213,31,279106314.498,406114663.867
-225399,Houston Christian University,Houston,TX,Baptist,0.8853,0.5183,0.4968,0.65646,"Houston Christian University, Houston, TX",,,Elite,7,87,31,144351765.743,294078741.85
+225399,Houston Christian University,Houston,TX,Baptist,0.8853,0.5183,0.4968,0.65646,"Houston Christian University, Houston, TX",29.6895,-95.6413,Elite,7,87,31,144351765.743,294078741.85
 225548,Howard Payne University,Brownwood,TX,Baptist,0.3775,0.3893999999999999,0.5549000000000001,0.45089,"Howard Payne University, Brownwood, TX",31.71642025,-98.98631404578038,Stable,3,422,31,51052205.371,146909887.212
 226471,University of Mary Hardin-Baylor,Belton,TX,Baptist,0.8976000000000001,0.4924,0.4118,0.6221800000000001,"University of Mary Hardin-Baylor, Belton, TX",31.06868225,-97.46482937242428,Elite,7,106,31,144510282.54,423503452.788
 231420,Averett University,Danville,VA,Baptist,0.3832,0.4305,0.4829,0.43256,"Averett University, Danville, VA",36.5789301,-79.41452051628477,Stable,3,522,22,22791309.261,29476443.318
@@ -83,7 +83,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 237136,Appalachian Bible College,Mount Hope,WV,Baptist,0.2627,0.3843999999999999,0.5052,0.38409,"Appalachian Bible College, Mount Hope, WV",37.85492139999999,-81.20494954511202,Critical,0,749,6,2041796.187,12642667.428
 239071,Maranatha Baptist University,Watertown,WI,Baptist,0.2956,0.4063,0.4968,0.39826,"Maranatha Baptist University, Watertown, WI",43.19591645,-88.74001639641634,At-Risk,1,697,18,2122886.172,18627841.783
 475608,Criswell College,Dallas,TX,Baptist,0.2505,0.3848,0.5012,0.3776899999999999,"Criswell College, Dallas, TX",32.79311725,-96.777051129858,Critical,0,777,31,10507851.206,12152275.061
-482228,Veritas Baptist College,Lawrenceburg,IN,Baptist,0.2507999999999999,0.3832,0.4793,0.36872,"Veritas Baptist College, Lawrenceburg, IN",,,Critical,0,812,23,0.0,1260.123
+482228,Veritas Baptist College,Lawrenceburg,IN,Baptist,0.2507999999999999,0.3832,0.4793,0.36872,"Veritas Baptist College, Lawrenceburg, IN",39.0886,-84.8505,Critical,0,812,23,0.0,1260.123
 150066,Anderson University,Anderson,IN,Church of God,0.4235,0.4013,0.49,0.4456799999999999,"Anderson University, Anderson, IN",40.11455395,-85.6607189805517,Stable,3,450,23,30777700.896,202568222.119
 150066,Anderson University,Anderson,IN,Church of God,0.4235,0.4013,0.49,0.4456799999999999,"Anderson University, Anderson, IN",40.11455395,-85.6607189805517,Stable,3,450,23,40147184.087,69708298.057
 153250,Dordt University,Sioux Center,IA,Church of God,0.4740999999999999,0.4341,0.51,0.48048,"Dordt University, Sioux Center, IA",43.08066095,-96.16404679319116,Healthy,5,316,25,76366256.958,222948244.432
@@ -92,14 +92,14 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 220613,Lee University,Cleveland,TN,Church of God,0.3771,0.5168,0.5235,0.46362,"Lee University, Cleveland, TN",35.1660778,-84.86925196171154,Secure,4,376,28,35616229.663,175704583.593
 245953,Mid-America Christian University,Oklahoma City,OK,Church of God,0.3096,0.4384,0.494,0.40915,"Mid-America Christian University, Oklahoma City, OK",35.3467159,-97.57847646028875,At-Risk,1,639,7,4364190.92,35973421.372
 101189,Faulkner University,Montgomery,AL,Churches of Christ,0.365,0.4852,0.4884,0.43841,"Faulkner University, Montgomery, AL",32.3854781,-86.21710609904724,Stable,3,494,11,22415312.902,58114336.828
-106810,Crowley's Ridge College,Paragould,AR,Churches of Christ,0.254,0.3775,0.4847999999999999,0.37106,"Crowley's Ridge College, Paragould, AR",,,Critical,0,805,7,1264728.822,2572047.292
+106810,Crowley's Ridge College,Paragould,AR,Churches of Christ,0.254,0.3775,0.4847999999999999,0.37106,"Crowley's Ridge College, Paragould, AR",36.0695,-90.5087,Critical,0,805,7,1264728.822,2572047.292
 121150,Pepperdine University,Malibu,CA,Churches of Christ,0.6376,0.8351999999999999,0.5012,0.6224799999999999,"Pepperdine University, Malibu, CA",34.04301030000001,-118.7093458932893,Elite,7,105,30,1352840941.697,2039289952.555
 133809,Florida College,Temple Terrace,FL,Churches of Christ,0.3624,0.4067,0.5246999999999999,0.43622,"Florida College, Temple Terrace, FL",28.03446495,-82.38338213326841,Stable,3,504,30,35415358.077,91785601.569
 170967,Rochester University,Rochester Hills,MI,Churches of Christ,0.3424,0.4025,0.4821,0.41033,"Rochester University, Rochester Hills, MI",42.66870805,-83.1435408514073,At-Risk,1,633,24,1247972.92,8228428.5
 181543,Summit Christian College,Gering,NE,Churches of Christ,0.2364,0.3768,0.5024000000000001,0.37093,"Summit Christian College, Gering, NE",41.8293566,-103.6757197,Critical,0,806,11,127008.787,766649.226
 181853,York University,York,NE,Churches of Christ,0.2925,0.3997,0.5015999999999999,0.39762,"York University, York, NE",40.86967774999999,-97.58034078874503,At-Risk,1,703,11,28165363.676,50548447.712
 199971,Carolina Christian College,Winston Salem,NC,Churches of Christ,0.2548999999999999,0.3897,0.4892,0.3756199999999999,"Carolina Christian College, Winston Salem, NC",36.1461516,-80.2562112,Critical,0,786,35,0.0,1236620.443
-207324,Oklahoma Christian University,Edmond,OK,Churches of Christ,0.3639,0.4451,0.4972,0.43348,"Oklahoma Christian University, Edmond, OK",,,Stable,3,518,7,66508111.676,88437162.19
+207324,Oklahoma Christian University,Edmond,OK,Churches of Christ,0.3639,0.4451,0.4972,0.43348,"Oklahoma Christian University, Edmond, OK",35.657,-97.4444,Stable,3,518,7,66508111.676,88437162.19
 219976,Lipscomb University,Nashville,TN,Churches of Christ,0.6420999999999999,0.5943999999999999,0.486,0.57008,"Lipscomb University, Nashville, TN",36.10507165,-86.79864091820343,Strong,6,149,28,122667623.6,217858144.321
 220215,Freed-Hardeman University,Henderson,TN,Churches of Christ,0.2663,0.4503,0.514,0.40222,"Freed-Hardeman University, Henderson, TN",35.43981645,-88.63662784873422,At-Risk,1,668,28,99443641.763,190166030.473
 222178,Abilene Christian University,Abilene,TX,Churches of Christ,0.9099,0.5318999999999999,0.5104,0.67446,"Abilene Christian University, Abilene, TX",32.4699728,-99.70735954838815,Elite,7,83,31,966154256.423,1108270302.652
@@ -128,9 +128,9 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 136330,Palm Beach Atlantic University,West Palm Beach,FL,Interdenominational,0.7719,0.4637,0.5028,0.6026,"Palm Beach Atlantic University, West Palm Beach, FL",26.7048899,-80.05085158341606,Strong,6,119,30,118945105.491,370186071.451
 137962,Trinity College of Florida,Trinity,FL,Interdenominational,0.2578,0.3752,0.4876,0.37325,"Trinity College of Florida, Trinity, FL",28.19391805,-82.67835960740362,Critical,0,797,30,939976.55,3174062.423
 139144,Berry College,Mount Berry,GA,Interdenominational,0.823,0.4435,0.5828,0.65102,"Berry College, Mount Berry, GA",34.293036,-85.19174086702785,Elite,7,90,26,402275173.523,1792430506.882
-139153,Beulah Heights University,Atlanta,GA,Interdenominational,0.2495,0.3703,0.4677,0.3609799999999999,"Beulah Heights University, Atlanta, GA",,,Critical,0,825,26,0.0,574869.2
-140696,Oglethorpe University,Atlanta,GA,Interdenominational,0.6428,0.4153,0.427,0.51096,"Oglethorpe University, Atlanta, GA",,,Healthy,5,243,26,55394131.06,134526315.847
-142090,Boise Bible College,Boise,ID,Interdenominational,0.2523999999999999,0.376,0.4740999999999999,0.36584,"Boise Bible College, Boise, ID",,,Critical,0,817,4,744058.766,6185626.727
+139153,Beulah Heights University,Atlanta,GA,Interdenominational,0.2495,0.3703,0.4677,0.3609799999999999,"Beulah Heights University, Atlanta, GA",33.7406,-84.3776,Critical,0,825,26,0.0,574869.2
+140696,Oglethorpe University,Atlanta,GA,Interdenominational,0.6428,0.4153,0.427,0.51096,"Oglethorpe University, Atlanta, GA",33.8751,-84.3356,Healthy,5,243,26,55394131.06,134526315.847
+142090,Boise Bible College,Boise,ID,Interdenominational,0.2523999999999999,0.376,0.4740999999999999,0.36584,"Boise Bible College, Boise, ID",43.6516,-116.3125,Critical,0,817,4,744058.766,6185626.727
 143118,Aurora University,Aurora,IL,Interdenominational,0.6476999999999999,0.7123,0.4928,0.5986,"Aurora University, Aurora, IL",41.754829,-88.34950358637296,Strong,6,124,42,57093254.696,215487246.504
 144050,University of Chicago,Chicago,IL,Interdenominational,0.937,0.9736,0.496,0.76778,"University of Chicago, Chicago, IL",41.79139685,-87.60084387193544,Elite,7,32,42,10776747231.612,9504208947.19
 144883,East-West University,Chicago,IL,Interdenominational,0.3741,0.3726,0.5991,0.46387,"East-West University, Chicago, IL",41.8712713,-87.62506935993366,Secure,4,375,42,15918651.608,80918784.288
@@ -139,25 +139,25 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 149781,Wheaton College,Wheaton,IL,Interdenominational,0.5028,0.4749,0.5251,0.50615,"Wheaton College, Wheaton, IL",41.86963745,-88.09755524953694,Healthy,5,253,42,662050503.677,1003275443.333
 156213,Asbury University,Wilmore,KY,Interdenominational,0.502,0.4301,0.5339,0.5004,"Asbury University, Wilmore, KY",37.8633341,-84.66528114627815,Healthy,5,265,16,88642139.008,200442971.478
 156295,Berea College,Berea,KY,Interdenominational,0.4013,0.4164,0.6304,0.49603,"Berea College, Berea, KY",37.57153635,-84.28979604472684,Healthy,5,275,16,1620002877.407,2219878351.923
-157030,Kentucky Mountain Bible College,Jackson,KY,Interdenominational,0.2438,0.3779,0.504,0.37475,"Kentucky Mountain Bible College, Jackson, KY",,,Critical,0,793,16,0.0,10205432.997
+157030,Kentucky Mountain Bible College,Jackson,KY,Interdenominational,0.2438,0.3779,0.504,0.37475,"Kentucky Mountain Bible College, Jackson, KY",37.5742,-83.3875,Critical,0,793,16,0.0,10205432.997
 164465,Amherst College,Amherst,MA,Interdenominational,0.4677,0.4407999999999999,0.5777,0.50636,"Amherst College, Amherst, MA",42.3703768,-72.5160691823344,Healthy,5,252,51,4254154753.154,5994956042.334
 165662,Emerson College,Boston,MA,Interdenominational,0.7473000000000001,0.5659000000000001,0.4956,0.6103000000000001,"Emerson College, Boston, MA",42.3521996,-71.0656808,Strong,6,115,51,279832730.644,684986908.594
 165936,Gordon College,Wenham,MA,Interdenominational,0.3568,0.4372,0.4992,0.42987,"Gordon College, Wenham, MA",42.5888528,-70.8203006,Vulnerable,2,538,51,127257830.927,158911668.765
 167835,Smith College,Northampton,MA,Interdenominational,0.5482,0.4753,0.5235,0.52375,"Smith College, Northampton, MA",42.31622385,-72.64039315198599,Strong,6,210,51,-174348714.721,-159913609.945
 170037,Cornerstone University,Grand Rapids,MI,Interdenominational,0.4145,0.4257999999999999,0.5271,0.46183,"Cornerstone University, Grand Rapids, MI",42.98088915,-85.59574235212932,Secure,4,383,24,21135676.681,113163877.874
-174525,Oak Hills Christian College,Bemidji,MN,Interdenominational,0.2498,0.3854999999999999,0.5088,0.38059,"Oak Hills Christian College, Bemidji, MN",,,Critical,0,765,23,1040681.603,4754000.907
+174525,Oak Hills Christian College,Bemidji,MN,Interdenominational,0.2498,0.3854999999999999,0.5088,0.38059,"Oak Hills Christian College, Bemidji, MN",47.5106,-94.8712,Critical,0,765,23,1040681.603,4754000.907
 178697,College of the Ozarks,Point Lookout,MO,Interdenominational,0.3542,0.4196,0.5851,0.4597,"College of the Ozarks, Point Lookout, MO",36.617958,-93.23650382366762,Secure,4,389,29,699206960.681,909502758.966
 186131,Princeton University,Princeton,NJ,Interdenominational,0.9479,0.6751,0.6282,0.76542,"Princeton University, Princeton, NJ",40.33867515,-74.65836549131683,Elite,7,34,15,45087052885.495,48581181910.45
 191515,Hamilton College,Clinton,NY,Interdenominational,0.4388,0.4451,0.5596,0.48841,"Hamilton College, Clinton, NY",43.0537974,-75.40693894376341,Healthy,5,289,75,1562290689.945,1752416806.508
 192749,Manhattanville College,Purchase,NY,Interdenominational,0.3354,0.4736999999999999,0.4829,0.42208,"Manhattanville College, Purchase, NY",41.0313935,-73.7155858,Vulnerable,2,579,75,27572311.394,25862925.681
 193584,Nazareth University,Rochester,NY,Interdenominational,0.4133,0.4896,0.5152,0.46934,"Nazareth University, Rochester, NY",43.1025786,-77.52006821627872,Secure,4,354,75,97344919.158,252971042.652
 199032,Montreat College,Montreat,NC,Interdenominational,0.3468,0.3974,0.5203,0.42636,"Montreat College, Montreat, NC",35.6459434,-82.2970364,Vulnerable,2,563,35,10885516.189,114280988.263
-201821,The Christ College of Nursing and Health Sciences,Cincinnati,OH,Interdenominational,0.2716,0.4160999999999999,0.5785,0.42332,"The Christ College of Nursing and Health Sciences, Cincinnati, OH",,,Vulnerable,2,575,46,14514141.557,21332772.87
+201821,The Christ College of Nursing and Health Sciences,Cincinnati,OH,Interdenominational,0.2716,0.4160999999999999,0.5785,0.42332,"The Christ College of Nursing and Health Sciences, Cincinnati, OH",39.1467,-84.5304,Vulnerable,2,575,46,14514141.557,21332772.87
 203128,Hiram College,Hiram,OH,Interdenominational,0.3173999999999999,0.3917,0.4888,0.40086,"Hiram College, Hiram, OH",41.3136471,-81.14306812554344,At-Risk,1,681,46,54055666.885,52535268.739
 203535,Kenyon College,Gambier,OH,Interdenominational,0.4424,0.4357,0.5168,0.47084,"Kenyon College, Gambier, OH",40.3725696,-82.39427459529426,Secure,4,345,46,668014003.67,1029061481.88
 213400,Lancaster Bible College,Lancaster,PA,Interdenominational,0.2998,0.4471,0.4907999999999999,0.40569,"Lancaster Bible College, Lancaster, PA",40.0752884,-76.28808851521957,At-Risk,1,655,51,20909046.413,63044709.244
 213996,Messiah University,Mechanicsburg,PA,Interdenominational,0.4629999999999999,0.494,0.4932,0.48128,"Messiah University, Mechanicsburg, PA",40.19369145,-76.97605268396879,Healthy,5,311,51,110423257.013,191459755.953
-215114,Cairn University-Langhorne,Langhorne,PA,Interdenominational,0.3336,0.4086999999999999,0.4947999999999999,0.41313,"Cairn University-Langhorne, Langhorne, PA",,,Vulnerable,2,620,51,16081418.168,36916567.823
+215114,Cairn University-Langhorne,Langhorne,PA,Interdenominational,0.3336,0.4086999999999999,0.4947999999999999,0.41313,"Cairn University-Langhorne, Langhorne, PA",40.1773,-74.9129,Vulnerable,2,620,51,16081418.168,36916567.823
 217235,Johnson & Wales University-Providence,Providence,RI,Interdenominational,0.6033,0.3779,0.5235,0.52632,"Johnson & Wales University-Providence, Providence, RI",41.78823615,-71.39038710016683,Strong,6,201,8,453968599.208,669501103.112
 217925,Columbia International University,Columbia,SC,Interdenominational,0.2119,0.4700999999999999,0.492,0.37561,"Columbia International University, Columbia, SC",,,Critical,0,787,19,6571509.862,63267776.061
 218070,Furman University,Greenville,SC,Interdenominational,0.6263000000000001,0.4645,0.5604,0.56759,"Furman University, Greenville, SC",34.92577435,-82.4385258125221,Strong,6,152,19,930653722.2,1280839014.117
@@ -597,9 +597,9 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 216807,Westminster College,New Wilmington,PA,Presbyterian,0.3461,0.4059,0.5124,0.42462,"Westminster College, New Wilmington, PA",41.1182434,-80.32868957389215,Vulnerable,2,568,51,152265258.407,217862226.213
 217998,Erskine College,Due West,SC,Presbyterian,0.4582,0.3886,0.5032,0.46231,"Erskine College, Due West, SC",34.33219835,-82.39299839413458,Secure,4,381,19,28758257.237,55499075.894
 218539,Presbyterian College,Clinton,SC,Presbyterian,0.3715,0.4067,0.5168,0.4367,"Presbyterian College, Clinton, SC",34.46275055,-81.86717708775335,Stable,3,501,19,105149586.493,171332949.296
-219718,Bethel University,McKenzie,TN,Presbyterian,0.3871,0.4503,0.4892,0.4406,"Bethel University, McKenzie, TN",36.14145385,-88.51552576233773,Stable,3,477,28,102336837.068,156586967.915
-219718,Bethel University,McKenzie,TN,Presbyterian,0.3871,0.4503,0.4892,0.4406,"Bethel University, McKenzie, TN",36.14145385,-88.51552576233773,Stable,3,477,28,12855674.236,41224846.036
-219718,Bethel University,McKenzie,TN,Presbyterian,0.3871,0.4503,0.4892,0.4406,"Bethel University, McKenzie, TN",36.14145385,-88.51552576233773,Stable,3,477,28,11368919.048,34511235.245
+219718,Bethel University,McKenzie,TN,Presbyterian,0.3871,0.4503,0.4892,0.4406,"Bethel University, McKenzie, TN",45.0625,-93.1526,Stable,3,477,28,102336837.068,156586967.915
+219718,Bethel University,McKenzie,TN,Presbyterian,0.3871,0.4503,0.4892,0.4406,"Bethel University, McKenzie, TN",45.0625,-93.1526,Stable,3,477,28,12855674.236,41224846.036
+219718,Bethel University,McKenzie,TN,Presbyterian,0.3871,0.4503,0.4892,0.4406,"Bethel University, McKenzie, TN",45.0625,-93.1526,Stable,3,477,28,11368919.048,34511235.245
 220516,King University,Bristol,TN,Presbyterian,0.2974,0.4149,0.4932,0.39926,"King University, Bristol, TN",36.5877694,-82.15980141522917,At-Risk,1,693,28,41346286.743,47889742.35
 220710,Maryville College,Maryville,TN,Presbyterian,0.4553999999999999,0.3997,0.5075999999999999,0.46517,"Maryville College, Maryville, TN",35.751472,-83.9642249,Secure,4,372,28,90465298.668,167017919.975
 221351,Rhodes College,Memphis,TN,Presbyterian,0.4817,0.4435,0.5056,0.48363,"Rhodes College, Memphis, TN",35.15564375,-89.98893549446169,Healthy,5,302,28,464369373.064,558655515.747
@@ -622,9 +622,9 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 144971,Eureka College,Eureka,IL,Protestant,0.305,0.3893999999999999,0.5024000000000001,0.40088,"Eureka College, Eureka, IL",40.71304545,-89.26588087495756,At-Risk,1,680,42,36637553.133,40906087.901
 147679,North Park University,Chicago,IL,Protestant,0.5124,0.457,0.5052,0.49845,"North Park University, Chicago, IL",41.97487485,-87.70538274756231,Healthy,5,270,42,138337327.942,271406158.543
 149514,Trinity International University-Illinois,Deerfield,IL,Protestant,0.2155999999999999,0.4071,0.4757,0.35798,"Trinity International University-Illinois, Deerfield, IL",42.19529545,-87.87910360426022,Critical,0,830,42,39751171.104,39142989.246
-150145,Bethel University,Mishawaka,IN,Protestant,0.3369,0.4102,0.4907999999999999,0.4131499999999999,"Bethel University, Mishawaka, IN",41.6763764,-86.19332967026835,Vulnerable,2,619,23,102336837.068,156586967.915
-150145,Bethel University,Mishawaka,IN,Protestant,0.3369,0.4102,0.4907999999999999,0.4131499999999999,"Bethel University, Mishawaka, IN",41.6763764,-86.19332967026835,Vulnerable,2,619,23,12855674.236,41224846.036
-150145,Bethel University,Mishawaka,IN,Protestant,0.3369,0.4102,0.4907999999999999,0.4131499999999999,"Bethel University, Mishawaka, IN",41.6763764,-86.19332967026835,Vulnerable,2,619,23,11368919.048,34511235.245
+150145,Bethel University,Mishawaka,IN,Protestant,0.3369,0.4102,0.4907999999999999,0.4131499999999999,"Bethel University, Mishawaka, IN",45.0625,-93.1526,Vulnerable,2,619,23,102336837.068,156586967.915
+150145,Bethel University,Mishawaka,IN,Protestant,0.3369,0.4102,0.4907999999999999,0.4131499999999999,"Bethel University, Mishawaka, IN",45.0625,-93.1526,Vulnerable,2,619,23,12855674.236,41224846.036
+150145,Bethel University,Mishawaka,IN,Protestant,0.3369,0.4102,0.4907999999999999,0.4131499999999999,"Bethel University, Mishawaka, IN",45.0625,-93.1526,Vulnerable,2,619,23,11368919.048,34511235.245
 153108,Central College,Pella,IA,Protestant,0.3821,0.4017,0.5028,0.43433,"Central College, Pella, IA",41.4036435,-92.93159877729258,Stable,3,513,25,111624359.416,110574986.464
 154101,Northwestern College,Orange City,IA,Protestant,0.3635,0.4416,0.5168,0.44047,"Northwestern College, Orange City, IA",42.9994485,-96.0543218266804,Stable,3,479,25,87674349.471,176313680.394
 155520,MidAmerica Nazarene University,Olathe,KS,Protestant,0.33,0.4219,0.5604,0.44059,"MidAmerica Nazarene University, Olathe, KS",38.87397135,-94.782189935796,Stable,3,478,17,18812163.892,39979412.776
