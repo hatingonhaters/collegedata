@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Collegiate Survivability Map</title>
+    <title>Collegiate Survivability Map (TEST MARKER: FINAL FIX)</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -36,12 +36,12 @@
             bottom: 10px;
             right: 10px;
             z-index: 1000;
-            background: #f8f8f8;
+            background: white;
             padding: 10px;
-            font-size: 12px;
-            max-width: 250px;
             border-radius: 8px;
-            box-shadow: 0 0 8px rgba(0,0,0,0.15);
+            font-size: 12px;
+            width: 240px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
         }
         .legend div {
             margin-bottom: 4px;
@@ -71,7 +71,7 @@
 </div>
 <div id="map"></div>
 <div class="legend" id="legend"></div>
-<div class="revision-note">Map revised on April 13, 2025 to improve financial accuracy and minimize the influence of outliers on survivability scores.</div>
+<div class="revision-note">Revised April 12, 2025 — Percentile scoring adjusted for outlier control. Financial values are forecasts for 2028.</div>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
@@ -85,7 +85,6 @@
         "#8b0000", "#e66101", "#fdb863", "#fdd49e",
         "#c2e699", "#78c679", "#31a354", "#006837"
     ];
-
     const categoryLabels = [
         "Critical", "At-Risk", "Vulnerable", "Stable",
         "Secure", "Healthy", "Strong", "Elite"
@@ -101,50 +100,44 @@
         }
     }
 
-    function formatCurrency(value) {
-        const num = parseFloat(value);
-        return isNaN(num) ? "N/A" : `$${num.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-    }
-
     function updateMap() {
         const selected = document.getElementById("quantileFilter").value;
         markers.forEach(m => map.removeLayer(m));
         markers = [];
 
-        Papa.parse("final_map_with_financials.csv", {
+        Papa.parse("final_map_data_with_financials.csv", {
             download: true,
             header: true,
             complete: function(results) {
                 results.data.forEach(row => {
-                    const lat = parseFloat(row.lat);
-                    const lon = parseFloat(row.lon);
-                    const group = parseInt(row.Quantile_Group);
+                    const lat = parseFloat(row["lat"]);
+                    const lon = parseFloat(row["lon"]);
+                    const group = parseInt(row["Quantile_Group"]);
 
                     if (isNaN(lat) || isNaN(lon) || isNaN(group)) return;
                     if (selected !== "all" && group != selected) return;
 
-                    const color = colorScale[group];
+                    const popup = `
+                        <strong>${row["University"]}</strong><br/>
+                        Rank: ${row["Rank"]}<br/>
+                        Market: ${(parseFloat(row["Market_Saturation_Percentile"]) * 100).toFixed(1)}%<br/>
+                        Academic: ${(parseFloat(row["Academic_Efficiency_Percentile"]) * 100).toFixed(1)}%<br/>
+                        aCFI: ${(parseFloat(row["aCFI_Percentile"]) * 100).toFixed(1)}%<br/>
+                        CSI: ${(parseFloat(row["Survivability"]) * 100).toFixed(1)}%<br/>
+                        Endowment*: $${parseFloat(row["Endowment"] || 0).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}<br/>
+                        Net Assets*: $${parseFloat(row["Net Assets"] || 0).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}<br/>
+                        <em>*2028 forecast derived using the Holt-Winters Method</em>
+                    `;
+
                     const marker = L.circleMarker([lat, lon], {
                         radius: 6,
-                        fillColor: color,
+                        fillColor: colorScale[group],
                         color: "#000",
                         weight: 1,
                         opacity: 1,
                         fillOpacity: 0.85
-                    });
+                    }).bindPopup(popup);
 
-                    const popup = `
-                        <strong>${row.University}</strong><br/>
-                        Rank: ${row.Rank}<br/>
-                        Market: ${(parseFloat(row.Market_Saturation_Percentile) * 100).toFixed(1)}%<br/>
-                        Academic: ${(parseFloat(row.Academic_Efficiency_Percentile) * 100).toFixed(1)}%<br/>
-                        aCFI: ${(parseFloat(row.aCFI_Percentile) * 100).toFixed(1)}%<br/>
-                        CSI: ${(parseFloat(row.Survivability) * 100).toFixed(1)}%<br/>
-                        Endowment: ${formatCurrency(row.Endowment)}<br/>
-                        Net Assets: ${formatCurrency(row["Net Assets"])}
-                    `;
-
-                    marker.bindPopup(popup);
                     marker.addTo(map);
                     markers.push(marker);
                 });
