@@ -168,7 +168,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 226231,LeTourneau University,Longview,TX,Interdenominational,0.5565,0.4364,0.4503,0.48999,"LeTourneau University, Longview, TX",32.46575895,-94.726444524352,Healthy,5,282,31,33535602.32,143774586.905
 230816,Bennington College,Bennington,VT,Interdenominational,0.3092,0.4059,0.4896,0.40073,"Bennington College, Bennington, VT",42.92044325,-73.23852531543986,At-Risk,1,682,7,59433818.69,87432949.965
 231651,Regent University,Virginia Beach,VA,Interdenominational,0.6609,0.7293999999999999,0.4972,0.6090599999999999,"Regent University, Virginia Beach, VA",36.79932065,-76.19440046772189,Strong,6,116,22,52200584.009,156396704.683
-233301,Randolph College,Lynchburg,VA,Interdenominational,0.4471,0.3924,0.4709,0.4457,"Randolph College, Lynchburg, VA",36.22,-116.78,Stable,3,449,22,211944670.913,310890641.099
+233301,Randolph College,Lynchburg,VA,Interdenominational,0.4471,0.3924,0.4709,0.4457,"Randolph College, Lynchburg, VA",37.4138,-79.1423,Stable,3,449,22,211944670.913,310890641.099
 243744,Stanford University,Stanford,CA,Interdenominational,0.9879,0.8878,0.5287,0.78408,"Stanford University, Stanford, CA",34.95,-83.05,Elite,7,20,30,43678472171.516,59350958269.808
 384254,Beacon College,Leesburg,FL,Interdenominational,0.3274,0.397,0.4876,0.40543,"Beacon College, Leesburg, FL",28.81243925,-81.87392600460183,At-Risk,1,656,30,149238.744,30501894.92
 443340,Williamson Christian College,Franklin,TN,Interdenominational,0.2401,0.3661999999999999,0.4864,0.36389,"Williamson Christian College, Franklin, TN",35.62,-97.38,Critical,0,821,28,0.0,844013.053
@@ -650,7 +650,7 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 199458,Mid-Atlantic Christian University,Elizabeth City,NC,Protestant,0.2575,0.3809,0.4924,0.37619,"Mid-Atlantic Christian University, Elizabeth City, NC",36.3044141,-76.21636491459975,Critical,0,783,35,4382862.376,4762646.463
 199847,Wake Forest University,Winston-Salem,NC,Protestant,0.9748,0.7558,0.5036,0.7424200000000001,"Wake Forest University, Winston-Salem, NC",36.13389295,-80.27555779127688,Elite,7,47,35,1328272564.692,2168581273.505
 201964,Ohio Christian University,Circleville,OH,Protestant,0.2478999999999999,0.3806,0.603,0.41656,"Ohio Christian University, Circleville, OH",39.6118927,-82.90625672679114,Vulnerable,2,602,46,5983282.801,32391416.694
-202903,Gods Bible School and College,Cincinnati,OH,Protestant,0.2617,0.379,0.5867,0.41523,"Gods Bible School and College, Cincinnati, OH",35.79,-112.21,Vulnerable,2,610,46,3903272.102,12904550.236
+202903,Gods Bible School and College,Cincinnati,OH,Protestant,0.2617,0.379,0.5867,0.41523,"Gods Bible School and College, Cincinnati, OH",39.1031,-84.512,Vulnerable,2,610,46,3903272.102,12904550.236
 204501,Oberlin College,Oberlin,OH,Protestant,0.6041,0.4562,0.5422,0.54977,"Oberlin College, Oberlin, OH",41.29571765,-82.22156959263393,Strong,6,167,46,1543578050.983,1823091704.893
 206862,Southern Nazarene University,Bethany,OK,Protestant,0.3817,0.4578,0.5231,0.4535099999999999,"Southern Nazarene University, Bethany, OK",35.5138091,-97.62930068685996,Secure,4,415,7,56401621.176,64577648.548
 207582,Oral Roberts University,Tulsa,OK,Protestant,0.6225,0.4924,0.5068,0.55019,"Oral Roberts University, Tulsa, OK",36.0508252,-95.95213552843208,Strong,6,166,7,54085352.459,358247448.524
@@ -664,8 +664,8 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 228875,Texas Christian University,Fort Worth,TX,Protestant,0.9987,0.7791,0.5088,0.75872,"Texas Christian University, Fort Worth, TX",32.7080148,-97.36119385339882,Elite,7,36,31,3065408991.313,4090875019.29
 231095,Sterling College,Craftsbury Common,VT,Protestant,0.2361,0.3741,0.492,0.36611,"Sterling College, Craftsbury Common, VT",44.65177415,-72.38233221619343,Critical,0,815,7,6857264.81,27292660.517
 231095,Sterling College,Craftsbury Common,VT,Protestant,0.2361,0.3741,0.492,0.36611,"Sterling College, Craftsbury Common, VT",44.65177415,-72.38233221619343,Critical,0,815,7,1123380.243,6579179.953
-232557,Liberty University,Lynchburg,VA,Protestant,0.9987,0.9987,0.5572,0.82197,"Liberty University, Lynchburg, VA",36.22,-116.78,Elite,7,3,22,2889536146.25,5084330260.383
-232609,University of Lynchburg,Lynchburg,VA,Protestant,0.5168,0.5347,0.9599,0.6977500000000001,"University of Lynchburg, Lynchburg, VA",36.22,-116.78,Elite,7,74,22,163091063.495,217819920.869
+232557,Liberty University,Lynchburg,VA,Protestant,0.9987,0.9987,0.5572,0.82197,"Liberty University, Lynchburg, VA",37.4138,-79.1423,Elite,7,3,22,2889536146.25,5084330260.383
+232609,University of Lynchburg,Lynchburg,VA,Protestant,0.5168,0.5347,0.9599,0.6977500000000001,"University of Lynchburg, Lynchburg, VA",37.4138,-79.1423,Elite,7,74,22,163091063.495,217819920.869
 237181,Bethany College,Bethany,WV,Protestant,0.3068,0.3848,0.488,0.39492,"Bethany College, Bethany, WV",40.20580445,-80.56165856727861,At-Risk,1,715,6,56798919.108,41196170.937
 237181,Bethany College,Bethany,WV,Protestant,0.3068,0.3848,0.488,0.39492,"Bethany College, Bethany, WV",40.20580445,-80.56165856727861,At-Risk,1,715,6,21213637.344,8525509.56
 417734,Southeast Missouri Hospital College of Nursing and Health Sciences,Cape Girardeau,MO,Protestant,0.2438,0.3882,0.4637,0.36068,"Southeast Missouri Hospital College of Nursing and Health Sciences, Cape Girardeau, MO",36.02,-101.98,Critical,0,827,29,5820.559,-625525640.233
@@ -792,11 +792,11 @@ InstitutionID,University,City,State,Religion,Market_Saturation_Percentile,Academ
 197984,Belmont Abbey College,Belmont,NC,Roman Catholic               ,0.5291,0.4097999999999999,0.484,0.48721,"Belmont Abbey College, Belmont, NC",35.2613455,-81.03635899466433,Healthy,5,293,35,11215593.673,24442481.246
 200217,University of Mary,Bismarck,ND,Roman Catholic               ,0.4325,0.537,0.5012,0.48088,"University of Mary, Bismarck, ND",46.72486905,-100.7516229007192,Healthy,5,313,4,80531197.061,198258361.047
 202480,University of Dayton,Dayton,OH,Roman Catholic               ,0.8945000000000001,0.8051,0.5004,0.7188800000000001,"University of Dayton, Dayton, OH",39.73845985,-84.17919478013708,Elite,7,61,46,1005326808.243,1986060460.863
-202912,Good Samaritan College of Nursing and Health Science,Cincinnati,OH,Roman Catholic               ,0.2464,0.389,0.44,0.35239,"Good Samaritan College of Nursing and Health Science, Cincinnati, OH",35.79,-112.21,Critical,0,834,46,7462369.836,-60950565.588
+202912,Good Samaritan College of Nursing and Health Science,Cincinnati,OH,Roman Catholic               ,0.2464,0.389,0.44,0.35239,"Good Samaritan College of Nursing and Health Science, Cincinnati, OH",39.1031,-84.512,Critical,0,834,46,7462369.836,-60950565.588
 203368,John Carroll University,University Heights,OH,Roman Catholic               ,0.3722,0.4976,0.5032,0.44969,"John Carroll University, University Heights, OH",41.49038105,-81.52875868134805,Stable,3,431,46,325715589.381,432342736.496
 203757,Lourdes University,Sylvania,OH,Roman Catholic               ,0.2719,0.4067,0.4832,0.38342,"Lourdes University, Sylvania, OH",41.71083765,-83.70816048949855,Critical,0,754,46,10581753.81,4739911.306
 204176,Mount Carmel College of Nursing,Columbus,OH,Roman Catholic               ,0.2432,0.4321,0.4932,0.3810199999999999,"Mount Carmel College of Nursing, Columbus, OH",36.87,-86.13,Critical,0,762,46,0.0,47706913.637
-204200,Mount St. Joseph University,Cincinnati,OH,Roman Catholic               ,0.3666,0.4384,0.4149,0.4002799999999999,"Mount St. Joseph University, Cincinnati, OH",35.79,-112.21,At-Risk,1,686,46,78613661.345,138061721.23
+204200,Mount St. Joseph University,Cincinnati,OH,Roman Catholic               ,0.3666,0.4384,0.4149,0.4002799999999999,"Mount St. Joseph University, Cincinnati, OH",39.1031,-84.512,At-Risk,1,686,46,78613661.345,138061721.23
 204617,Ohio Dominican University,Columbus,OH,Roman Catholic               ,0.3117,0.4071,0.4829,0.39929,"Ohio Dominican University, Columbus, OH",39.9945316,-82.94235868789129,At-Risk,1,692,46,12773434.923,12446707.236
 205957,Franciscan University of Steubenville,Steubenville,OH,Roman Catholic               ,0.5742,0.4821,0.4947999999999999,0.5240100000000001,"Franciscan University of Steubenville, Steubenville, OH",40.376755,-80.62193141522137,Strong,6,209,46,100437801.231,233798862.736
 206437,Walsh University,North Canton,OH,Roman Catholic               ,0.3594,0.4606,0.5521,0.45676,"Walsh University, North Canton, OH",40.8736512,-81.36876839501872,Secure,4,404,46,43211770.097,125674130.694
