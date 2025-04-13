@@ -5,155 +5,99 @@
     <title>Collegiate Survivability Map</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <!-- Custom styles -->
     <style>
-        body, html { margin: 0; padding: 0; height: 100%; }
         #map { height: 100vh; width: 100%; }
-        #controls {
-            position: fixed;
-            top: 10px;
-            left: 10px;
-            z-index: 1000;
-            background: white;
-            padding: 10px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.2);
-        }
-        .legend {
-            position: fixed;
-            bottom: 10px;
-            left: 10px;
-            z-index: 1000;
-            background: white;
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 14px;
-            line-height: 1.5;
-            box-shadow: 0 0 10px rgba(0,0,0,0.2);
-        }
-        .revision-note {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            z-index: 1000;
-            background: #f8f8f8;
-            padding: 10px;
-            font-size: 12px;
-            max-width: 250px;
-            border-radius: 8px;
-            box-shadow: 0 0 8px rgba(0,0,0,0.15);
-        }
-        .legend div {
-            margin-bottom: 4px;
-        }
-        .color-box {
-            display: inline-block;
-            width: 12px;
-            height: 12px;
-            margin-right: 6px;
-        }
+        .legend { background: white; padding: 10px; line-height: 1.5em; }
     </style>
 </head>
 <body>
-<div id="controls">
-    <label for="quantileFilter">Filter by CSI Category:</label><br/>
     <select id="quantileFilter" onchange="updateMap()">
         <option value="all">Show All</option>
-        <option value="7">Elite</option>
-        <option value="6">Strong</option>
-        <option value="5">Healthy</option>
-        <option value="4">Secure</option>
-        <option value="3">Stable</option>
-        <option value="2">Vulnerable</option>
-        <option value="1">At-Risk</option>
         <option value="0">Critical</option>
+        <option value="1">At-Risk</option>
+        <option value="2">Vulnerable</option>
+        <option value="3">Watchlist</option>
+        <option value="4">Stable</option>
+        <option value="5">Healthy</option>
+        <option value="6">Strong</option>
+        <option value="7">Elite</option>
     </select>
-</div>
-<div id="map"></div>
-<div class="legend" id="legend"></div>
-<div class="revision-note">Map revised on April 13, 2025 to improve financial accuracy and minimize the influence of outliers on survivability scores.</div>
+    <div id="map"></div>
 
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
-<script>
-    let map = L.map('map').setView([39.5, -98.35], 4);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }).addTo(map);
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <!-- PapaParse to parse CSV -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
-    const colorScale = [
-        "#8b0000", "#e66101", "#fdb863", "#fdd49e",
-        "#c2e699", "#78c679", "#31a354", "#006837"
-    ];
+    <script>
+        let map = L.map('map').setView([39.5, -98.35], 4);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
 
-    const categoryLabels = [
-        "Critical", "At-Risk", "Vulnerable", "Stable",
-        "Secure", "Healthy", "Strong", "Elite"
-    ];
+        const colorScale = [
+            "#8b0000", "#e66101", "#fdb863", "#f7f7f7",
+            "#c2e699", "#78c679", "#31a354", "#006837"
+        ];
 
-    let markers = [];
+        let markers = [];
 
-    function renderLegend() {
-        const legend = document.getElementById("legend");
-        legend.innerHTML = "<strong>CSI Categories</strong><br/>";
-        for (let i = categoryLabels.length - 1; i >= 0; i--) {
-            legend.innerHTML += `<div><span class="color-box" style="background:${colorScale[i]}"></span>${categoryLabels[i]}</div>`;
+        function getQuantileGroup(csi) {
+            return Math.floor(csi * 8); // 0 to 7
         }
-    }
 
-    function formatCurrency(value) {
-        const num = parseFloat(value);
-        return isNaN(num) ? "N/A" : `$${num.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-    }
+        function updateMap() {
+            const selected = document.getElementById("quantileFilter").value;
+            markers.forEach(m => map.removeLayer(m));
+            markers = [];
 
-    function updateMap() {
-        const selected = document.getElementById("quantileFilter").value;
-        markers.forEach(m => map.removeLayer(m));
-        markers = [];
+            Papa.parse("national_map_data.csv", {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    results.data.forEach(row => {
+                        const lat = parseFloat(row.Latitude);
+                        const lon = parseFloat(row.Longitude);
+                        const csi = parseFloat(row["Collegiate Survivability Index (CSI)"]);
 
-        Papa.parse("final_map_with_financials.csv", {
-            download: true,
-            header: true,
-            complete: function(results) {
-                results.data.forEach(row => {
-                    const lat = parseFloat(row.lat);
-                    const lon = parseFloat(row.lon);
-                    const group = parseInt(row.Quantile_Group);
+                        if (isNaN(lat) || isNaN(lon) || isNaN(csi)) return;
 
-                    if (isNaN(lat) || isNaN(lon) || isNaN(group)) return;
-                    if (selected !== "all" && group != selected) return;
+                        const group = getQuantileGroup(csi);
+                        if (selected !== "all" && group != selected) return;
 
-                    const color = colorScale[group];
-                    const marker = L.circleMarker([lat, lon], {
-                        radius: 6,
-                        fillColor: color,
-                        color: "#000",
-                        weight: 1,
-                        opacity: 1,
-                        fillOpacity: 0.85
+                        const color = colorScale[group];
+                        const marker = L.circleMarker([lat, lon], {
+                            radius: 6,
+                            fillColor: color,
+                            color: "#000",
+                            weight: 1,
+                            opacity: 1,
+                            fillOpacity: 0.8
+                        });
+
+                        const popup = `
+                            <strong>${row.University}</strong><br/>
+                            Rank: ${row.Rank}<br/>
+                            CSI: ${(csi * 100).toFixed(1)}%<br/>
+                            Market: ${(parseFloat(row["Market Saturation Percentile"]) * 100).toFixed(1)}%<br/>
+                            Academic: ${(parseFloat(row["AE Percentile"]) * 100).toFixed(1)}%<br/>
+                            aCFI: ${(parseFloat(row["aCFI Percentile"]) * 100).toFixed(1)}%<br/>
+                            Endowment (2028): $${parseFloat(row.Endowment).toLocaleString()}<br/>
+                            Liabilities (2028): $${parseFloat(row.Liabilities).toLocaleString()}
+                        `;
+
+                        marker.bindPopup(popup);
+                        marker.addTo(map);
+                        markers.push(marker);
                     });
+                }
+            });
+        }
 
-                    const popup = `
-                        <strong>${row.University}</strong><br/>
-                        Rank: ${row.Rank}<br/>
-                        Market: ${(parseFloat(row.Market_Saturation_Percentile) * 100).toFixed(1)}%<br/>
-                        Academic: ${(parseFloat(row.Academic_Efficiency_Percentile) * 100).toFixed(1)}%<br/>
-                        aCFI: ${(parseFloat(row.aCFI_Percentile) * 100).toFixed(1)}%<br/>
-                        CSI: ${(parseFloat(row.Survivability) * 100).toFixed(1)}%<br/>
-                        Endowment: ${formatCurrency(row.Endowment)}<br/>
-                        Net Assets: ${formatCurrency(row["Net Assets"])}
-                    `;
-
-                    marker.bindPopup(popup);
-                    marker.addTo(map);
-                    markers.push(marker);
-                });
-            }
-        });
-    }
-
-    renderLegend();
-    updateMap();
-</script>
+        updateMap();
+    </script>
 </body>
 </html>
