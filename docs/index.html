@@ -89,13 +89,13 @@
         markers.forEach(m => map.removeLayer(m));
         markers = [];
 
-        Papa.parse("final_map_data_complete.csv", {
+        Papa.parse("geocoded_university_data_for_map.csv", {
             download: true,
             header: true,
             complete: function(results) {
                 results.data.forEach(row => {
-                    const lat = parseFloat(row.Latitude);
-                    const lon = parseFloat(row.Longitude);
+                    const lat = parseFloat(row.lat);
+                    const lon = parseFloat(row.lon);
                     const group = parseInt(row.Quantile_Group);
 
                     if (isNaN(lat) || isNaN(lon) || isNaN(group)) return;
@@ -113,13 +113,10 @@
 
                     const popup = `
                         <strong>${row.University}</strong><br/>
-                        Rank: ${row.Rank}<br/>
-                        CSI: ${(parseFloat(row["Collegiate Survivability Index (CSI)"]) * 100).toFixed(1)}%<br/>
-                        Market: ${(parseFloat(row["Market Saturation Percentile"]) * 100).toFixed(1)}%<br/>
-                        Academic: ${(parseFloat(row["AE Percentile"]) * 100).toFixed(1)}%<br/>
-                        aCFI: ${(parseFloat(row["aCFI Percentile"]) * 100).toFixed(1)}%<br/>
-                        Endowment (2028): $${parseFloat(row.Endowment).toLocaleString()}<br/>
-                        Liabilities (2028): $${parseFloat(row.Liabilities).toLocaleString()}
+                        Market: ${(parseFloat(row.Market_Saturation_Percentile) * 100).toFixed(1)}%<br/>
+                        Academic: ${(parseFloat(row.Academic_Efficiency_Percentile) * 100).toFixed(1)}%<br/>
+                        aCFI: ${(parseFloat(row.aCFI_Percentile) * 100).toFixed(1)}%<br/>
+                        CSI: ${(parseFloat(row.Survivability) * 100).toFixed(1)}%
                     `;
 
                     marker.bindPopup(popup);
