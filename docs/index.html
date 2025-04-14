@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Collegiate Survivability Map (TEST MARKER: FINAL FIX)</title>
+    <title>Collegiate Survivability Map</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -59,19 +59,19 @@
     <label for="quantileFilter">Filter by Survivability:</label><br/>
     <select id="quantileFilter" onchange="updateMap()">
         <option value="all">Show All</option>
-        <option value="7">Elite</option>
-        <option value="6">Strong</option>
-        <option value="5">Healthy</option>
-        <option value="4">Secure</option>
-        <option value="3">Stable</option>
-        <option value="2">Vulnerable</option>
-        <option value="1">At-Risk</option>
-        <option value="0">Critical</option>
+        <option value="8">Elite</option>
+        <option value="7">Strong</option>
+        <option value="6">Healthy</option>
+        <option value="5">Secure</option>
+        <option value="4">Stable</option>
+        <option value="3">Vulnerable</option>
+        <option value="2">At-Risk</option>
+        <option value="1">Critical</option>
     </select>
 </div>
 <div id="map"></div>
 <div class="legend" id="legend"></div>
-<div class="revision-note">Revised April 12, 2025 — Percentile scoring adjusted for outlier control. Financial values are forecasts for 2028.</div>
+<div class="revision-note">Revised April 2025 — Values reflect 2028 projections using adjusted CSI methodology.</div>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
@@ -124,14 +124,13 @@
                         Academic: ${(parseFloat(row["Academic_Efficiency_Percentile"]) * 100).toFixed(1)}%<br/>
                         aCFI: ${(parseFloat(row["aCFI_Percentile"]) * 100).toFixed(1)}%<br/>
                         CSI: ${(parseFloat(row["Survivability"]) * 100).toFixed(1)}%<br/>
-                        Endowment*: $${parseFloat(row["Endowment"] || 0).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}<br/>
-                        Net Assets*: $${parseFloat(row["Net Assets"] || 0).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}<br/>
-                        <em>*2028 forecast derived using the Holt-Winters Method</em>
+                        Endowment (2028): $${parseFloat(row["Endowment"] || 0).toLocaleString()}<br/>
+                        Instructional Costs (2028): $${parseFloat(row["Instructional_Costs"] || 0).toLocaleString()}
                     `;
 
                     const marker = L.circleMarker([lat, lon], {
                         radius: 6,
-                        fillColor: colorScale[group],
+                        fillColor: colorScale[group - 1],
                         color: "#000",
                         weight: 1,
                         opacity: 1,
